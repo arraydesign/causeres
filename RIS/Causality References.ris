@@ -1,0 +1,2479 @@
+TY  - UNPB
+T1  - Causality and Mechanisms : Between Statistics and Philosophy
+A1  - Aalen, O D D O
+SP  - 79
+EP  - 82
+UR  - http://www.cas.uio.no/Publications/Seminar/Consilience_Aalen.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Aalen - 2005 - Causality and Mechanisms Between Statistics and Philosophy.pdf
+ER  - 
+TY  - CONF
+T1  - An Algorithm for Finding Minimum d-Separating Sets in Belief Networks
+A1  - Acid, Silvia
+A1  - Campos, Luis M
+Y1  - 1996///
+KW  - ALGORITHM
+KW  - As
+KW  - CAU
+KW  - conditional probability
+KW  - CONDITIONAL-PROBABILITY
+KW  - directed acyclic graph
+KW  - directed acyclic graphs
+KW  - graph
+KW  - independence
+KW  - INFORMATION
+KW  - MANAGEMENT
+KW  - MODEL
+KW  - Models
+KW  - NETWORKS
+KW  - PAPER
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - probabilistic
+KW  - PROBABILITIES
+KW  - Probability
+KW  - SETS
+KW  - UNCERTAINTY
+KW  - VARIABLES
+T3  - 12th Conference of Uncertainty in Artificial Intelligence
+SP  - 3
+EP  - 10
+UR  - http://uai.sis.pitt.edu/papers/96/p3-acid.pdf
+N1  - 12th Conference of Uncertainty in Artificial Intelligence
+N2  - The criterion commonly used in directed acyclic graphs (dags) for testing graphical independence is the well-known d-separation criterion. It allows us to build graphical representations of dependency models (usually probabilistic dependency models) in the form of belief networks, which make easy interpretation and management of independence relationships possible, without reference to numerical parameters (conditional probabilities). In this paper, we study the following combinatorial problem: finding the minimum d-separating set for two nodes in a dag. This set would represent the minimum information (in the sense of minimum number of variables) necessary to prevent these two nodes from influencing each other. The solution to this basic problem and some of its extensions can be useful in several ways, as we shall see later. Our solution is based on a two-step process: first, we reduce the original problem to the simpler one of finding a minimum separating set in an undirected graph, and second, we develop an algorithm for solving it.
+ER  - 
+TY  - JOUR
+T1  - Causality and Medicine
+A1  - Agassi, Joseph
+Y1  - 1976///
+JF  - The Journal of Medicine and Philosophy
+VL  - I
+IS  - 4
+SP  - 1
+EP  - 25
+UR  - http://www.tau.ac.il/~agass/joseph-papers/causality.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Agassi - 1976 - Causality and Medicine(3).pdf
+ER  - 
+TY  - JOUR
+T1  - The role of causal reasoning in understanding Simpson's paradox, Lord's paradox, and the suppression effect: covariate selection in the analysis of observational studies.
+A1  - Arah, Onyebuchi a
+Y1  - 2008/01//
+JF  - Emerging themes in epidemiology
+VL  - 5
+SP  - 5
+EP  - 5
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2266743&tool=pmcentrez&rendertype=abstract
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Arah - 2008 - The role of causal reasoning in understanding Simpson's paradox, Lord's paradox, and the suppression effect covariate selection in the analysis of observational st.pdf
+N2  - Tu et al present an analysis of the equivalence of three paradoxes, namely, Simpson's, Lord's, and the suppression phenomena. They conclude that all three simply reiterate the occurrence of a change in the association of any two variables when a third variable is statistically controlled for. This is not surprising because reversal or change in magnitude is common in conditional analysis. At the heart of the phenomenon of change in magnitude, with or without reversal of effect estimate, is the question of which to use: the unadjusted (combined table) or adjusted (sub-table) estimate. Hence, Simpson's paradox and related phenomena are a problem of covariate selection and adjustment (when to adjust or not) in the causal analysis of non-experimental data. It cannot be overemphasized that although these paradoxes reveal the perils of using statistical criteria to guide causal analysis, they hold neither the explanations of the phenomenon they depict nor the pointers on how to avoid them. The explanations and solutions lie in causal reasoning which relies on background knowledge, not statistical criteria.
+ER  - 
+TY  - UNPB
+T1  - Analysis of Nasopharyngeal Carcinoma Data with a Novel Bayesian Network Learning Algorithm
+A1  - Aussem, Alex
+A1  - Corbex, Marilys
+Y1  - 2008/04//
+KW  - ALGORITHM
+KW  - Algorithms
+KW  - analysis
+KW  - Carcinoma
+KW  - CAU
+KW  - PAPER
+KW  - Population
+KW  - PROFILE
+KW  - QUALITY
+KW  - Records
+KW  - SAMPLE
+KW  - simulation
+KW  - Simulations
+KW  - Statistical
+KW  - Time
+KW  - United States
+KW  - UNITED-STATES
+KW  - VARIABLES
+PB  - unknown
+UR  - http://citeseerx.ist.psu.edu/viewdoc/summary10.1.1.108.1258
+N1  - CiteSeerX - Scientific Literature Digital Library and Search Engine [http://citeseerx.ist.psu.edu/oai2] (United States) ER
+N2  - Learning the structure of a bayesian network from a data set is NP-hard. In this paper, we discuss a novel heuristic called Polynomial Max-Min Skeleton (PMMS) developped by Tsamardinos et al. in 2005. PMMS was proved by extensive empirical simulations to be an excellent trade-off between time and quality of reconstruction compared to all constraint based algorithms, especially for the smaller sample sizes. Unfortunately, there are two main problems with PMMS: it is unable to deal with missing data nor with datasets containing functional dependencies between variables. In this paper, we propose a way to overcome these problems. The new version of PMMS is first applied on standard benchmarks to recover the original structure from data. The algorithm is then applied on the Nasopharyngeal carcinoma (NPC) made up from only 1289 uncomplete records in order to shed some light into the statistical profile of the population under study.
+ER  - 
+TY  - GEN
+T1  - Directed Acyclic Graphs and Algorithms of Inductive Causation
+A1  - Bessler, David A
+Y1  - 2007///
+KW  - ALGORITHM
+KW  - Algorithms
+KW  - CAU
+KW  - directed acyclic graph
+KW  - directed acyclic graphs
+KW  - graph
+KW  - GRAPHS
+PB  - Texas A&M University
+UR  - agecon2.tamu.edu
+ER  - 
+TY  - GEN
+T1  - Statistical Inference for Causal Effects in Experiments and Observational Studies
+A1  - Boomsma, Anne
+Y1  - 2009///
+JF  - Design
+UR  - http://www.ppsw.rug.nl/~boomsma/causinf.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Boomsma - 2009 - Statistical Inference for Causal Effects in Experiments and Observational Studies Causal Inference.pdf
+ER  - 
+TY  - UNPB
+T1  - The collider principle in causal reasoning: Why the Monty Hall dilemma is so hard
+A1  - Burns, Bruce
+A1  - Wieth, Mareike
+JF  - East
+SP  - 1
+EP  - 60
+UR  - https://www.msu.edu/~burnsbr/Burns_Wieth04_man.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Burns - Unknown - The collider principle in causal reasoning Why the Monty Hall dilemma is so hard Bruce D. Burns and Mareike Wieth Michigan State University.pdf
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Comment
+A1  - Casella, G
+A1  - Schwartz, S P
+Y1  - 2000/06//
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - counterfactuals
+KW  - INFERENCE
+KW  - Philosophy
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 425
+EP  - 427
+CY  - Cornell Univ, Dept Biometr, Ithaca, NY USA Cornell Univ, Dept Philosophy & Relig, Ithaca, NY USA
+UR  - ISI:000087716200008
+UR  - http://www.jstor.org/stable/2669379
+N1  - Times Cited: 2 Editorial Material English Casella, G Cornell Univ, Dept Biometr, Ithaca, NY USA Cited References Count: 6 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - JOUR
+T1  - Use of a marginal structural model to determine the effect of aspirin on cardiovascular mortality in the physicians' health study
+A1  - Cook, N R
+A1  - Cole, S R
+A1  - Hennekens, C H
+Y1  - 2002/06//
+KW  - Article
+KW  - As
+KW  - aspirin
+KW  - Baltimore
+KW  - BETA-CAROTENE
+KW  - Bias (Epidemiology)
+KW  - Boston
+KW  - CANCER
+KW  - Cardiovascular Diseases
+KW  - CAU
+KW  - causal diagrams
+KW  - confounder
+KW  - Confounding Factors (Epidemiology)
+KW  - Death
+KW  - Disease
+KW  - diseases
+KW  - EFFICACY
+KW  - Epidemiologic Methods
+KW  - EVENTS
+KW  - EXPOSURE
+KW  - FAILURE-TIME MODEL
+KW  - Health
+KW  - INFERENCE
+KW  - Male
+KW  - methods
+KW  - MODEL
+KW  - Mortality
+KW  - Myocardial Infarction
+KW  - MYOCARDIAL-INFARCTION
+KW  - NUMBERS
+KW  - Physicians
+KW  - PREVENTION
+KW  - Primary Prevention
+KW  - PROBABILITIES
+KW  - Probability
+KW  - RANDOMIZED TRIAL
+KW  - RATIO
+KW  - Risk
+KW  - risk factor
+KW  - Risk Factors
+KW  - RISK-FACTORS
+KW  - secondary
+KW  - Time
+KW  - TIMES
+KW  - UNITED-STATES PHYSICIANS
+KW  - VARIABLES
+KW  - WOMEN
+KW  - Zidovudine
+JF  - American Journal of Epidemiology
+VL  - 155
+IS  - 11
+SP  - 1045
+EP  - 1053
+CY  - Harvard Univ, Sch Med, Brigham & Womens Hosp, Dept Med,Div Prevent Med, Boston, MA 02215 USA Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, Baltimore, MD USA Univ Miami, Sch Med, Dept Epidemiol & Publ Hlth Med, Miami, FL USA
+UR  - ISI:000175913400008
+N1  - Times Cited: 8 Article English Cook, N. R Harvard Univ, Sch Med, Brigham & Womens Hosp, Dept Med,Div Prevent Med, 900 Commonwealth Ave E, Boston, MA 02215 USA Cited References Count: 29 557MY OXFORD UNIV PRESS INC JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA CARY
+N2  - The 1982-1988 aspirin component of the Physicians' Health Study, a randomized trial of aspirin and beta-carotene in primary prevention of cardiovascular disease and cancer among 22,071 US male physicians, was terminated early primarily because of a statistically extreme 44% reduction in first myocardial infarction, with inadequate precision and no apparent effect on the primary endpoint, cardiovascular death. Because of the demonstrated efficacy of aspirin in secondary prevention of cardiovascular death, nonfatal cardiovascular events may simultaneously be time-dependent confounders and intermediate variables. Aspirin use is strongly influenced by these as well as other diseases, side effects, and cardiovascular risk factors. The authors used a marginal structural model with time-dependent inverse probability weights to estimate the underlying causal effect of aspirin on cardiovascular mortality. Although intention-to-treat analyses found no effect (rate ratio = 1.00, 95% confidence interval (CI): 0.72, 1.38), the estimated causal rate ratio was altered to 0.75 but remained nonsignificant (95% CI: 0.48, 1.16). As-treated analyses suggested a more modest effect of aspirin use (rate ratio = 0.90, 95% CI: 0.65, 1.25). Although the numbers of cardiovascular deaths were insufficient to evaluate this endpoint definitively, use of such methods holds much potential for controlling time-varying confounders affected by previous exposure
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Comment
+A1  - Cox, D R
+Y1  - 2000/06//
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - counterfactuals
+KW  - England
+KW  - INFERENCE
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 424
+EP  - 425
+CY  - Univ Oxford Nuffield Coll, Dept Stat, Oxford OX1 1NF, England
+UR  - ISI:000087716200007
+UR  -  http://www.jstor.org/stable/2669378
+N1  - Times Cited: 1 Editorial Material English Cox, D. R Univ Oxford Nuffield Coll, Dept Stat, Oxford OX1 1NF, England Cited References Count: 4 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - JOUR
+T1  - Causality: A statistical view
+A1  - Cox, D R
+A1  - Wermuth, N
+Y1  - 2004/12//
+KW  - analysis
+KW  - Article
+KW  - ASSOCIATION
+KW  - CAU
+KW  - Causality
+KW  - CAUSATION
+KW  - chain block graph
+KW  - confounder
+KW  - counterfactual
+KW  - England
+KW  - explanation
+KW  - GRAPHS
+KW  - IMPACT
+KW  - INFERENCE
+KW  - instrumental variable
+KW  - interaction
+KW  - Markov graph
+KW  - Models
+KW  - NEED
+KW  - Netherlands
+KW  - observational study
+KW  - OR
+KW  - overview
+KW  - Population
+KW  - Regression Analysis
+KW  - Statistical
+KW  - surrogate variable
+KW  - Sweden
+KW  - Time
+KW  - TIMES
+KW  - unit-treatment additivity
+KW  - unobserved confounder
+KW  - VARIABLES
+KW  - Work
+JF  - International Statistical Review
+VL  - 72
+IS  - 3
+SP  - 285
+EP  - 305
+CY  - Univ Oxford Nuffield Coll, Oxford OX1 1NF, England Univ Gothenburg, Gothenburg, Sweden
+UR  - ISI:000225684100001
+N1  - Times Cited: 14 Article English Cox, D. R Univ Oxford Nuffield Coll, Oxford OX1 1NF, England Cited References Count: 48 878YS INT STATISTICAL INST 428 PRINSES BEATRIXLAAN, 2270 AZ VOORBURG, NETHERLANDS VOORBURG
+N2  - Statistical aspects of causality are reviewed in simple form and the impact of recent work discussed. Three distinct notions of causality are set out and implications for densities and for linear dependencies explained. The importance of appreciating the possibility of effect modifiers is stressed, be they intermediate variables, background variables or unobserved confounders. In many contexts the issue of unobserved confounders is salient. The difficulties of interpretation when there are joint effects are discussed and possible modifications of analysis explained. The dangers of uncritical conditioning and marginalization over intermediate response variables are set out and some of the problems of generalizing conclusions to populations and individuals explained. In general terms the importance of search for possibly causal variables is stressed but the need for caution is emphasized
+ER  - 
+TY  - JOUR
+T1  - Influence diagrams for causal modelling and inference
+A1  - Dawid, A P
+Y1  - 2002/08//
+KW  - Article
+KW  - augmented
+KW  - augmented DAG
+KW  - CAU
+KW  - causal inference
+KW  - CONDITIONAL-INDEPENDENCE
+KW  - confounder
+KW  - counterfactual
+KW  - DECISION
+KW  - DECISIONS
+KW  - DIAGRAMS
+KW  - directed acyclic graph
+KW  - England
+KW  - functional model
+KW  - graph
+KW  - graphical model
+KW  - INFERENCE
+KW  - intervention
+KW  - London
+KW  - methods
+KW  - MODEL
+KW  - modelling
+KW  - Models
+KW  - Netherlands
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - probabilistic
+KW  - Statistical
+KW  - Support
+KW  - Time
+KW  - TIMES
+JF  - International Statistical Review
+VL  - 70
+IS  - 2
+SP  - 161
+EP  - 189
+CY  - UCL, Dept Stat Sci, London WC1E 6BT, England
+UR  - ISI:000177156600001
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dawid - 2002 - Influence diagrams for causal modelling and inference(3).pdf
+N1  - 
+        From Duplicate 1 ( 
+        
+        
+          Influence diagrams for causal modelling and inference
+        
+        
+         - Dawid, A P )
+And  Duplicate 2 ( 
+        
+        
+          Influence diagrams for causal modelling and inference
+        
+        
+         - Dawid, A P )
+
+        
+        
+Times Cited: 25 Article English Dawid, A. P UCL, Dept Stat Sci, Gower St, London WC1E 6BT, England Cited References Count: 37 579BY INT STATISTICAL INST 428 PRINSES BEATRIXLAAN, 2270 AZ VOORBURG, NETHERLANDS VOORBURG
+
+        
+
+      
+N2  - We consider a variety of ways in which probabilistic and causal models can be represented in graphical form. By adding nodes to our graphs to represent parameters, decisions, etc., we obtain a generalisation of influence diagrams that supports meaningful causal modelling and inference, and only requires concepts and methods that are already standard in the purely probabilistic case. We relate our representations to others, particularly functional models, and present arguments and examples in favour of their superiority
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals
+A1  - Dawid, A P
+Y1  - 2000/06//
+KW  - analysis
+KW  - Article
+KW  - As
+KW  - average causal effect
+KW  - BAYESIAN-INFERENCE
+KW  - CAU
+KW  - causal inference
+KW  - CAUSATION
+KW  - CAUSE
+KW  - causes of effects
+KW  - counterfactual
+KW  - counterfactuals
+KW  - DECISION
+KW  - determinism
+KW  - effects of causes
+KW  - England
+KW  - INFERENCE
+KW  - London
+KW  - metaphysical model
+KW  - modeling
+KW  - OUTCOMES
+KW  - Patient
+KW  - potential response
+KW  - Probability
+KW  - RANDOMIZED EXPERIMENTS
+KW  - Statistical
+KW  - STATISTICAL-THEORY
+KW  - Time
+KW  - TIMES
+KW  - treatment
+KW  - treatment-unit additivity
+KW  - UNCERTAINTY
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 407
+EP  - 424
+CY  - UCL, Dept Stat Sci, London WC1E 6BT, England
+UR  - http://www.jstor.org/stable/2669377 .
+N1  - Times Cited: 65 Article English Dawid, A. P UCL, Dept Stat Sci, Mortimer St, London WC1E 6BT, England Cited References Count: 40 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+N2  - A popular approach to the framing and answering of causal questions relies on the idea of counterfactuals: outcomes that would have been observed had the world developed differently; for example, if the patient had received a different treatment. By definition one can never observe such quantities, nor assess empirically the validity of any modeling assumptions made about them, even though one's conclusions may be sensitive to these assumptions. Here I argue that for making inference about the likely effects of applied causes, counterfactual arguments are unnecessary and potentially misleading. An alternative approach, based on Bayesian decision analysis, is presented. Properties of counterfactuals are relevant to inference about the likely causes of observed effects, but close attention then must be given to the nature and context of the query, as well as to what conclusions can and cannot be supported empirically. In particular, even in the absence of statistical uncertainty, such inferences may be subject to an irreducible degree of ambiguity
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Rejoinder
+A1  - Dawid, A P
+Y1  - 2000/06//
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - counterfactuals
+KW  - INFERENCE
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 444
+EP  - 448
+UR  - ISI:000087716200014
+UR  - http://www.jstor.org/stable/2669385
+N1  - Times Cited: 0 Editorial Material English Cited References Count: 1 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - RPRT
+T1  - Counterfactuals , Hypotheticals and Potential Responses : A Philosophical Examination of Statistical Causality
+A1  - Dawid, A P
+Y1  - 2006///
+JF  - Research Report No. 269. Dept. of Statistical Science, University College London
+IS  - 269
+SP  - 1
+EP  - 25
+UR  - http://www.ucl.ac.uk/statistics/research/pdfs/rr269.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dawid - 2006 - Counterfactuals , Hypotheticals and Potential Responses A Philosophical Examination of Statistical Causality ∗ Several modalities.pdf
+ER  - 
+TY  - RPRT
+T1  - Does X Really Cause Y?
+A1  - Dowd, Bryan
+A1  - Town, Robert
+Y1  - 2002/09//
+KW  - CAU
+KW  - CAUSE
+KW  - Health
+T3  - Academy Health
+SP  - 1
+EP  - 21
+UR  - http://www.academyhealth.org/files/FileDownloads/DoesXCauseY.pdf
+ER  - 
+TY  - JOUR
+T1  - Causality and phenomenon of contradictory outcomes in research
+A1  - Dwairy, Marwan
+Y1  - 2006/10//
+KW  - CAU
+KW  - Causality
+KW  - OUTCOMES
+KW  - Research
+JF  - Journal of Chinese Clinical Medicine
+VL  - 1
+IS  - 5
+SP  - 272
+EP  - 282
+UR  - http://old.cjmed.net/html/20061015_16.html?PHPSESSID=ea0e18f676cedce1ab7bf68ecf8cfe4b
+ER  - 
+TY  - JOUR
+T1  - From association to causation: some remarks on the history of statistics
+A1  - Freedman, David
+Y1  - 1999/08//
+KW  - Association
+KW  - causation
+KW  - epidemiology
+KW  - history of statistics
+KW  - modeling significance
+KW  - regression
+JF  - Statistical Science
+VL  - 14
+IS  - 3
+SP  - 243
+EP  - 258
+UR  - http://projecteuclid.org/euclid.ss/1009212409
+ER  - 
+TY  - JOUR
+T1  - Graphical models for causation, and the identification problem.
+A1  - Freedman, David A
+Y1  - 2004/08//
+KW  - Bayes Theorem
+KW  - Causality
+KW  - Epidemiologic Methods
+KW  - Humans
+KW  - Identification (Psychology)
+KW  - Linear Models
+KW  - Models
+KW  - Research Design
+KW  - Sensitivity and Specificity
+KW  - Statistical
+JF  - Evaluation review
+VL  - 28
+IS  - 4
+SP  - 267
+EP  - 93
+UR  - http://erx.sagepub.com/cgi/content/abstract/28/4/267
+N2  - This article (which is mainly expository) sets up graphical models for causation, having a bit less than the usual complement of hypothetical counterfactuals. Assuming the invariance of error distributions may be essential for causal inference, but the errors themselves need not be invariant. Graphs can be interpreted using conditional distributions, so that we can better address connections between the mathematical framework and causality in the world. The identification problem is posed in terms of conditionals. As will be seen, causal relationships cannot be inferred from a data set by running regressions unless there is substantial prior knowledge about the mechanisms that generated the data. There are few successful applications of graphical models, mainly because few causal pathways can be excluded on a priori grounds. The invariance conditions themselves remain to be assessed.
+ER  - 
+TY  - JOUR
+T1  - Are there algorithms that discover causal structure?
+A1  - Freedman, David
+A1  - Humphreys, Paul
+Y1  - 1999/11//
+KW  - ALGORITHM
+KW  - Algorithms
+KW  - Article
+KW  - ASSOCIATION
+KW  - CAU
+KW  - CAUSATION
+KW  - FAILURE
+KW  - FREEDMANS CRITIQUE
+KW  - GAP
+KW  - Humanities
+KW  - HUMPHREYS
+KW  - innovation
+KW  - MARKOV-FIELDS
+KW  - MODEL
+KW  - Models
+KW  - Netherlands
+KW  - PHILOSOPHERS STONE
+KW  - Philosophy
+KW  - SAMPLE
+KW  - Science
+KW  - SEARCH
+KW  - SIZE
+KW  - Social Sciences and Law
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+PB  - Springer Netherlands
+JF  - Synthese
+VL  - 121
+IS  - 1-2
+SP  - 29
+EP  - 54
+CY  - Univ Calif Berkeley, Dept Stat, Berkeley, CA 94705 USA Univ Virginia, Dept Philosophy, Charlottesville, VA 22903 USA
+UR  - ISI:000086030500003
+UR  - http://www.springerlink.com/content/u4h7765l87v817x4/
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Freedman, Humphreys - 1999 - Are there algorithms that discover causal structure(3).pdf
+N1  - 
+        From Duplicate 1 ( 
+        
+        
+          Are there algorithms that discover causal structure?
+        
+        
+         - Freedman, D; Humphreys, P )
+And  Duplicate 5 ( 
+        
+        
+          Are there algorithms that discover causal structure?
+        
+        
+         - Freedman, D; Humphreys, P )
+
+        
+        
+Times Cited: 3 Article English Freedman, D Univ Calif Berkeley, Dept Stat, Berkeley, CA 94705 USA Cited References Count: 59 296NM KLUWER ACADEMIC PUBL SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS DORDRECHT
+
+        
+
+      
+N2  - There have been many efforts to infer causation from association by using statistical models. Algorithms for automating this process are a more recent innovation. In Humphreys and Freedman [(1996) British Journal for the Philosophy of Science 47, 113-123] we showed that one such approach, by Spirtes et al., was fatally flawed. Here we put our arguments in a broader context and reply to Korb and Wallace [(1997) British Journal for the Philosophy of Science 48, 543-553] and to Spirtes et al. [(1997) British Journal for the Philosophy of Science 48, 555-568]. Their arguments leave our position unchanged: claims to have developed a rigorous engine for inferring causation from association are premature at best, the theorems have no implications for samples of any realistic size, and the examples used to illustrate the algorithms are indicative of failure rather than success. The gap between association and causation has yet to be bridged
+ER  - 
+TY  - RPRT
+T1  - Criteria for Distinguishing Effectiveness From Efficacy Trials in Systematic Reviews
+A1  - Gartlehner, G
+A1  - Hansen, R
+A1  - Nissman, D
+A1  - Lohr, K
+A1  - Carey, T
+Y1  - 2006/04//
+KW  - CAU
+KW  - EFFICACY
+KW  - Review
+KW  - TRIALS
+PB  - RTI-International-University of North Carolina Evidence-based Practice Center, Research Triangle Park, NC
+VL  - Technical
+VL  - Technical Review 12
+UR  - http://www.ahrq.gov/clinic/tp/efftrialtp.htm 
+ER  - 
+TY  - JOUR
+T1  - Author's response to Poole, C. Commentary: How Many Are Affected? A Real Limit of Epidemiology.
+A1  - Gatto, Nicolle M
+A1  - Campbell, Ulka B
+A1  - Schwartz, Sharon
+Y1  - 2010/01//
+JF  - Epidemiologic perspectives & innovations : EP+I
+VL  - 7
+SP  - 7
+EP  - 7
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2939526&tool=pmcentrez&rendertype=abstract
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gatto, Campbell, Schwartz - 2010 - Author's response to Poole, C. Commentary How Many Are Affected A Real Limit of Epidemiology(3).pdf
+ER  - 
+TY  - GEN
+T1  - Defining and identifying the effect of treatment on the treated
+A1  - Geneletti, S
+A1  - Dawid, A P
+Y1  - 2005///
+JF  - Statistical Science
+UR  - http://128.40.111.250/evidence/content/etttalk.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Geneletti, Dawid - 2005 - Defining and identifying the effect of treatment on the treated(2).pdf
+ER  - 
+TY  - GEN
+T1  - The effect of treatment on the treated : a decision theoretic perspective
+A1  - Geneletti, S
+A1  - Dawid, A P
+Y1  - 2006///
+JF  - Epidemiology
+UR  - http://www.bias-project.org.uk/papers/RSStalk.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Geneletti, Dawid - 2006 - The effect of treatment on the treated a decision theoretic perspective.pdf
+ER  - 
+TY  - THES
+T1  - Scalable Graphical Models for Social Networks
+A1  - Goldenberg, Anna
+Y1  - 2007///
+KW  - CAU
+KW  - graphical model
+KW  - graphical models
+KW  - MODEL
+KW  - Models
+KW  - Universities
+KW  - University
+PB  - School of Computer Science, Carnegie Mellon University
+SP  - 1
+EP  - 104
+UR  - http://reports-archive.adm.cs.cmu.edu/anon/ml2007/CMU-ML-07-109.pdf
+N1  - Thesis Committee: Andrew Moore, CMU (Chair) Stephen Fienberg, CMU Zoubin Ghahramani, CMU Mark Handcock, University of Washington
+ER  - 
+TY  - JOUR
+T1  - Causal analysis in the health sciences
+A1  - Greenland, S
+Y1  - 2000/03//
+KW  - analysis
+KW  - Article
+KW  - CAU
+KW  - causal analysis
+KW  - Health
+KW  - health science
+KW  - INFERENCE
+KW  - Los Angeles
+KW  - Science
+KW  - SCIENCES
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 449
+SP  - 286
+EP  - 289
+CY  - Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90095 USA
+UR  - ISI:000087845100032
+UR  - http://www.jstor.org/pss/2669548
+N1  - Times Cited: 15 Article English Greenland, S Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90095 USA Cited References Count: 41 328HR AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - JOUR
+T1  - Causal diagrams for epidemiologic research
+A1  - Greenland, S
+A1  - Pearl, J
+A1  - Robins, J M
+Y1  - 1999/01//
+KW  - applications
+KW  - Article
+KW  - BIAS
+KW  - Boston
+KW  - CAU
+KW  - causal diagrams
+KW  - CAUSATION
+KW  - confounding
+KW  - DIAGRAMS
+KW  - EMPIRICAL-RESEARCH
+KW  - Epidemiologic Methods
+KW  - Evaluation
+KW  - EXPERT-SYSTEMS
+KW  - graphical methods
+KW  - history
+KW  - LONG
+KW  - Los Angeles
+KW  - observational studies
+KW  - Philadelphia
+KW  - Research
+KW  - SYSTEM
+KW  - systems
+KW  - Time
+KW  - TIMES
+KW  - VARIABLES
+JF  - Epidemiology
+VL  - 10
+IS  - 1
+SP  - 37
+EP  - 48
+CY  - Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90095 USA Univ Calif Los Angeles, Sch Engn, Dept Comp Sci, Cognit Syst Lab, Los Angeles, CA USA Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA Harvard Univ, Sch Publ
+UR  - ISI:000077715100008
+UR  - http://www.jstor.org/pss/3702180
+N1  - Times Cited: 220 Article English Greenland, S Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90095 USA Cited References Count: 45 151HR LIPPINCOTT WILLIAMS & WILKINS 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA PHILADELPHIA
+N2  - Casual diagrams have a long history of informal use and, more recently, have undergone formal developmental for applications in expert systems and robotics. We provide an introduction to these developments and their use in epidemiologic research. Casual diagrams can provide a starting point for identifying variables that must be measured and controlled to obtain unconfounded effect estimates. They also provide a method for critical evaluation of traditional epidemiologic criteria for confounding. In particular, they reveal certain heretofore unnoticed shortcomings of those criteria when used in considering multiple potential confounders. We show how to modify the traditional criteria to correct those shortcomings
+ER  - 
+TY  - JOUR
+T1  - An overview of relations among causal modelling methods
+A1  - Greenland, Sander
+A1  - Brumback, Babette
+Y1  - 2002/10//
+KW  - Bias
+KW  - causal diagrams
+KW  - causality
+JF  - International Journal of Epidemiology
+VL  - 31
+IS  - 5
+SP  - 1030
+EP  - 1037
+UR  - http://ije.oxfordjournals.org/cgi/content/abstract/31/5/1030
+UR  - http://ije.oxfordjournals.org/content/31/5/1030.short
+N2  - This paper provides a brief overview to four major types of causal models for health-sciences research: Graphical models (causal diagrams), potential-outcome (counterfactual) models, sufficient-component cause models, and structural-equations models. The paper focuses on the logical connections among the different types of models and on the different strengths of each approach. Graphical models can illustrate qualitative population assumptions and sources of bias not easily seen with other approaches; sufficient-component cause models can illustrate specific hypotheses about mechanisms of action; and potential-outcome and structural-equations models provide a basis for quantitative analysis of effects. The different approaches provide complementary perspectives, and can be employed together to improve causal interpretations of conventional statistical results.
+ER  - 
+TY  - RPRT
+T1  - Causal Diagrams
+A1  - Greenland, Sander
+A1  - Pearl, Judea
+Y1  - 2006///
+KW  - Article
+KW  - CAU
+KW  - causal diagrams
+KW  - DIAGRAMS
+KW  - epidemiology
+VL  - R-332
+VL  - R-332
+SP  - 1
+EP  - 12
+N1  - Article prepared for the Encyclopedia of Epidemiology
+ER  - 
+TY  - JOUR
+T1  - Evidence-based toxicology: a comprehensive framework for causation.
+A1  - Guzelian, Philip S
+A1  - Victoroff, Michael S
+A1  - Halmes, N Christine
+A1  - James, Robert C
+A1  - Guzelian, Christopher P
+Y1  - 2005/04//
+KW  - Animals
+KW  - Evidence-Based Medicine
+KW  - Humans
+KW  - Toxicology
+JF  - Human & experimental toxicology
+VL  - 24
+IS  - 4
+SP  - 161
+EP  - 201
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/15957536
+N2  - This paper identifies deficiencies in some current practices of causation and risk evaluation by toxicologists and formulates an evidence-based solution. The practice of toxicology focuses on adverse health events caused by physical or chemical agents. Some relations between agents and events are identified risks, meaning unwanted events known to occur at some frequency. However, other relations that are only possibilities--not known to occur (and may never be realized)--also are sometimes called risks and are even expressed quantitatively. The seemingly slight differences in connotation among various uses of the word 'risk' conceal deeply philosophic differences in the epistemology of harm. We label as 'nomological possibilities' (not as risks) all predictions of harm that are known not to be physically or logically impossible. Some of these nomological possibilities are known to be causal. We term them 'epistemic'. Epistemic possibilities are risks. The remaining nomological possibilities are called 'uncertainties'. Distinguishing risks (epistemic relationships) from among all nomological possibilities requires knowledge of causation. Causality becomes knowable when scientific experiments demonstrate, in a strong, consistent (repeatable), specific, dose-dependent, coherent, temporal and predictive manner that a change in a stimulus determines an asymmetric, directional change in the effect. Many believe that a similar set of characteristics, popularly called the 'Hill Criteria', make it possible, if knowledge is robust, to infer causation from only observational (nonexperimental) studies, where allocation of test subjects or items is not under the control of the investigator. Until the 1980s, medical decisions about diagnosis, prevention, treatment or harm were often made authoritatively. Rather than employing a rigorous evaluation of causal relationships and applying these criteria to the published knowledge, the field of medicine was dominated by authority-based opinions, expressed by experts (or consensus groups of experts) relying on their education, training, experience, wisdom, prestige, intuition, skill and improvisation. In response, evidence-based medicine (EBM) was developed, to make a conscientious, explicit and judicious use of current best evidence in deciding about the care of individual patients. Now globally embraced, EBM employs a structured, 'transparent' protocol for carrying out a deliberate, objective, unbiased and systematic review of the evidence about a formally framed question. Not only in medicine, but now in dentistry, engineering and other fields that have adapted the methods of EBM, it is the quality of the evidence and the rigor of the analysis through evidence-based logic (EBL), rather than the professional standing of the reviewer, that leads to evidence-based conclusions about what is known. Recent studies have disclosed that toxicologists (individually or in expert groups), not unlike their medical counterparts prior to EBM, show distressing variations in their biases with regard to data selection, data interpretation and data evaluation when performing reviews for causation analyses. Moreover, toxicologists often fail to acknowledge explicitly (particularly in regulatory and policy-making arenas) when shortcomings in the evidence necessitate reliance upon authority-based opinions, rather than evidence-based conclusions (Guzelian PS, Guzelian CP. Authority-based explanation. Science 2004; 303: 1468-69). Accordingly, for answering questions about general and specific causation, we have constructed a framework for evidence-based toxicology (EBT), derived from the accepted principles of EBM and expressed succinctly as three stages, comprising 12 total steps. These are: 1) collecting and evaluating the relevant data (Source, Exposure, Dose, Diagnosis); 2) collecting and evaluating the relevant knowledge (Frame the question, Assemble the relevant (delimited) literature, Assess and critique the literature); and 3) Joining data with knowledge to arrive at a conclusion (General causation--answer to the framed question, Dose-response, Timing, Alternative cause, Coherence). The second of these stages (which amounts to an analysis of general causation), is addressed by an EBM-styled approach (adapted for the infrequent availability of human experimental studies in environmental toxicology). This involves assembling literature (through documented algorithms for database queries), excluding irrelevancies by use of delimiters as filters, and ranking and rating the remaining articles for strength of study design and for quality of execution gauged by application of either a ready-made quality assessment instrument or a custom designed checklist or scale. The results of this systematic review (including a structured review of relevant animal and in vitro studies) are then themselves systematically used to determine which causation criteria are fulfilled. Toxicology is maturing from a derivative science largely devoted to routinized performance and interpretation of safety tests, to a discipline deeply enmeshed in the remarkable advances in biochemistry and molecular biology to better understanding the nature and mechanism of adverse effects caused by chemicals. It is time for toxicologists, like scientists in other fields, to formalize a method for differentiating settled toxicological knowledge of risk from mere nomological possibility, and for communicating their conclusions to other scientists and the public. It is time for EBT.
+ER  - 
+TY  - CHAP
+T1  - Causal Reasoning through Intervention
+A1  - Hagmayer, York
+A1  - Sloman, SA
+A1  - Lagnado, DA
+A1  - Waldman, MR
+Y1  - 2006///
+UR  - http://www.ucl.ac.uk/lagnado-lab/publications/lagnado/intervention hagmayer et al.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hagmayer et al. - Unknown - Causal Reasoning through Intervention.pdf
+ER  - 
+TY  - JOUR
+T1  - Lessons from quantum mechanics
+A1  - Hausman, D M
+Y1  - 1999/11//
+KW  - Article
+KW  - CAU
+KW  - CAUSATION
+KW  - England
+KW  - London
+KW  - Netherlands
+KW  - Philosophy
+KW  - Time
+KW  - TIMES
+KW  - Wisconsin
+JF  - Synthese
+VL  - 121
+IS  - 1-2
+SP  - 79
+EP  - 92
+CY  - Univ London London Sch Econ & Polit Sci, Dept Philosophy Log & Sci Method, London WC2A 2AE, England Univ Wisconsin, Dept Philosophy, Madison, WI 53706 USA
+UR  - ISI:000086030500005
+N1  - Times Cited: 1 Article English Hausman, D. M Univ London London Sch Econ & Polit Sci, Dept Philosophy Log & Sci Method, Houghton St, London WC2A 2AE, England Cited References Count: 22 296NM KLUWER ACADEMIC PUBL SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS DORDRECHT
+ER  - 
+TY  - JOUR
+T1  - Decision-Theoretic foundations for causal reasoning.
+A1  - Heckerman, David
+A1  - Shachter, Ross
+Y1  - 1995///
+JF  - Journal of Artifical Intelligence
+VL  - 3
+SP  - 405
+EP  - 430
+UR  - http://arxiv.org/pdf/cs/9512104.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Heckerman, Shachter - 1995 - Decision-Theoretic foundations for causal reasoning(4).pdf
+ER  - 
+TY  - JOUR
+T1  - The scientific model of causality
+A1  - Heckman, J J
+Y1  - 2005///
+KW  - Article
+KW  - CAU
+KW  - Causality
+KW  - Chicago
+KW  - England
+KW  - METHODOLOGY
+KW  - MODEL
+KW  - Publishing
+KW  - Time
+KW  - TIMES
+JF  - Sociological Methodology 2005, Vol 35
+VL  - 35
+T3  - Sociological Methodology
+SP  - 1
+EP  - 97
+CY  - Univ Chicago, Econ Res Ctr, Chicago, IL 60637 USA
+UR  - ISI:000238972200001
+UR  - http://jenni.uchicago.edu/discussion/Heckman_SocMeth_v35_2005.pdf
+N1  - Times Cited: 18 Article English Heckman, J. J Univ Chicago, Econ Res Ctr, Chicago, IL 60637 USA Cited References Count: 0 BEQ73 BLACKWELL PUBLISHING 9600 GARSINGTON RD, OXFORD OX4 2DQ, OXEN, ENGLAND OXFORD
+ER  - 
+TY  - UNPB
+T1  - Econometric causality
+A1  - Heckman, J J
+Y1  - 2008/04//
+KW  - agents
+KW  - anticipated vs.realized outcomes
+KW  - Article
+KW  - As
+KW  - BIAS
+KW  - CAU
+KW  - Causality
+KW  - Chicago
+KW  - counterfactuals
+KW  - econometrics
+KW  - Evaluation
+KW  - HETEROGENEITY
+KW  - IDENTIFICATION
+KW  - INFERENCE
+KW  - INSTRUMENTAL VARIABLES
+KW  - MODEL
+KW  - modelling
+KW  - Models
+KW  - Netherlands
+KW  - Neyman-Rubin model
+KW  - OUTCOMES
+KW  - PAPER
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - POLICY
+KW  - Roy model
+KW  - SELECTION
+KW  - SOCIAL EXPERIMENTS
+KW  - Statistical
+KW  - subjective and objective evaluations
+KW  - Time
+KW  - TIMES
+KW  - treatment effects
+KW  - WAGE COMPARISONS
+JF  - International Statistical Review
+VL  - 76
+IS  - 1
+SP  - 1
+EP  - 27
+CY  - Univ Chicago, Chicago, IL 60637 USA Amer Bar Fdn, Chicago, IL 60611 USA Univ Coll Dublin, Geary Inst, Dublin 2, Ireland
+UR  - ISI:000255000300001
+UR  - http://www.nber.org/papers/w13934
+N1  - Times Cited: 4 Article English Heckman, J. J Univ Chicago, Chicago, IL 60637 USA Cited References Count: 71 288QG INT STATISTICAL INST 428 PRINSES BEATRIXLAAN, 2270 AZ VOORBURG, NETHERLANDS VOORBURG
+N2  - This paper presents the econometric approach to causal modelling. It is motivated by policy problems. New causal parameters are defined and identified to address specific policy problems. Economists embrace a scientific approach to causality and model the preferences and choices of agents to infer subjective (agent) evaluations as well as objective outcomes. Anticipated and realized subjective and objective outcomes are distinguished. Models for simultaneous causality are developed. The paper contrasts the Neyman-Rubin model of causality with the econometric approach
+ER  - 
+TY  - JOUR
+T1  - Causal knowledge as a prerequisite for confounding evaluation: an application to birth defects epidemiology.
+A1  - Hernán, Miguel A
+A1  - Hernández-Díaz, Sonia
+A1  - Werler, Martha M
+A1  - Mitchell, Allen A
+Y1  - 2002/01//
+KW  - Bias (Epidemiology)
+KW  - Causality
+KW  - Confounding Factors (Epidemiology)
+KW  - Epidemiologic Methods
+KW  - Female
+KW  - Folic Acid
+KW  - Folic Acid: therapeutic use
+KW  - Humans
+KW  - Infant
+KW  - Mental Recall
+KW  - Neural Tube Defects
+KW  - Neural Tube Defects: epidemiology
+KW  - Neural Tube Defects: prevention & control
+KW  - Newborn
+KW  - Ontario
+KW  - Ontario: epidemiology
+KW  - Pregnancy
+KW  - United States
+KW  - United States: epidemiology
+JF  - American journal of epidemiology
+VL  - 155
+IS  - 2
+SP  - 176
+EP  - 84
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/11790682
+N2  - Common strategies to decide whether a variable is a confounder that should be adjusted for in the analysis rely mostly on statistical criteria. The authors present findings from the Slone Epidemiology Unit Birth Defects Study, 1992-1997, a case-control study on folic acid supplementation and risk of neural tube defects. When statistical strategies for confounding evaluation are used, the adjusted odds ratio is 0.80 (95% confidence interval: 0.62, 1.21). However, the consideration of a priori causal knowledge suggests that the crude odds ratio of 0.65 (95% confidence interval: 0.46, 0.94) should be used because the adjusted odds ratio is invalid. Causal diagrams are used to encode qualitative a priori subject matter knowledge.
+ER  - 
+TY  - JOUR
+T1  - Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization
+A1  - Hirano, Keisuke
+A1  - Imbens, Guido W
+Y1  - 2001/12//
+KW  - ADJUSTMENT
+KW  - ASSIGNMENT
+KW  - CATHETERIZATION
+KW  - CAU
+KW  - causal effects
+KW  - covariate
+KW  - heart
+KW  - Heart Catheterization
+KW  - methods
+KW  - OUTCOMES
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - PROPENSITY SCORE
+KW  - REGRESSION
+KW  - SELECTION
+KW  - treatment
+KW  - VARIABLES
+JF  - Health Services and Outcomes Research Methodology
+VL  - 2
+IS  - 3
+SP  - 259
+EP  - 278
+UR  - http://dx.doi.org/10.1023/A:1020371312283
+N2  - We consider methods for estimating causal effects of treatments when treatment assignment is unconfounded with outcomes conditional on a possibly large set of covariates. Robins and Rotnitzky (1995) suggested combining regression adjustment with weighting based on the propensity score (Rosenbaum and Rubin, 1983). We adopt this approach, allowing for a flexible specification of both the propensity score and the regression function. We apply these methods to data on the effects of right heart catheterization (RHC) studied in Connors et al (1996), and we find that our estimator gives stable estimates over a wide range of values for the two parameters governing the selection of variables
+ER  - 
+TY  - JOUR
+T1  - Causal inference based on counterfactuals
+A1  - Hofler, M
+A1  - Höfler, M
+Y1  - 2005///
+KW  - ADJUSTMENT
+KW  - As
+KW  - CAU
+KW  - causal effects
+KW  - causal inference
+KW  - Causality
+KW  - CAUSATION
+KW  - competing risk
+KW  - competing risks
+KW  - COMPETING-RISKS
+KW  - counterfactual
+KW  - epidemiology
+KW  - EXPOSURE
+KW  - EXPOSURES
+KW  - Health
+KW  - health science
+KW  - INFERENCE
+KW  - interaction
+KW  - ISSUES
+KW  - Medical
+KW  - medicine
+KW  - MODEL
+KW  - Observation
+KW  - observational studies
+KW  - OR
+KW  - PAPER
+KW  - PROBABILITIES
+KW  - Probability
+KW  - Risk
+KW  - Science
+KW  - Statistical
+PB  - BioMed Central
+JF  - BMC Medical Research Methodology
+VL  - 5
+IS  - 1
+SP  - 28
+EP  - 28
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1239917&tool=pmcentrez&rendertype=abstract
+UR  - http://www.biomedcentral.com/1471-2288/5/28
+N2  - BACKGROUND:The counterfactual or potential outcome model has become increasingly standard for causal inference in epidemiological and medical studies.DISCUSSION:This paper provides an overview on the counterfactual and related approaches. A variety of conceptual as well as practical issues when estimating causal effects are reviewed. These include causal interactions, imperfect experiments, adjustment for confounding, time-varying exposures, competing risks and the probability of causation. It is argued that the counterfactual model of causal effects captures the main aspects of causality in health sciences and relates to many statistical procedures.SUMMARY:Counterfactuals are the basis of causal inference in medicine and epidemiology. Nevertheless, the estimation of counterfactual differences pose several difficulties, primarily in observational studies. These problems, however, reflect fundamental barriers only when learning from observations, and this does not invalidate the counterfactual concept
+ER  - 
+TY  - JOUR
+T1  - The Bradford Hill considerations on causality: a counterfactual perspective
+A1  - Hofler, Michael
+Y1  - 2005///
+KW  - analysis
+KW  - As
+KW  - ASSOCIATION
+KW  - Bayesian methods
+KW  - BIAS
+KW  - CAU
+KW  - Causality
+KW  - complexity
+KW  - counterfactual
+KW  - data analysis
+KW  - design
+KW  - IMPACT
+KW  - methods
+KW  - modelling
+KW  - Monte Carlo
+KW  - MONTE-CARLO
+KW  - PAPER
+KW  - sensitivity analysis
+KW  - SYSTEM
+KW  - TOOL
+JF  - Emerging Themes in Epidemiology
+VL  - 2
+IS  - 1
+SP  - 11
+EP  - 11
+UR  - http://www.ete-online.com/content/2/1/11
+N2  - Bradford Hill's considerations published in 1965 had an enormous influence on attempts to separate causal from non-causal explanations of observed associations. These considerations were often applied as a checklist of criteria, although they were by no means intended to be used in this way by Hill himself. Hill, however, avoided defining explicitly what he meant by "causal effect".This paper provides a fresh point of view on Hill's considerations from the perspective of counterfactual causality. I argue that counterfactual arguments strongly contribute to the question of when to apply the Hill considerations. Some of the considerations, however, involve many counterfactuals in a broader causal system, and their heuristic value decreases as the complexity of a system increases; the danger of misapplying them can be high. The impacts of these insights for study design and data analysis are discussed. The key analysis tool to assess the applicability of Hill's considerations is multiple bias modelling (Bayesian methods and Monte Carlo sensitivity analysis); these methods should be used much more frequently
+ER  - 
+TY  - JOUR
+T1  - Instrumental variables and inverse probability weighting for causal inference from longitudinal observational studies.
+A1  - Hogan, Joseph W
+A1  - Lancaster, Tony
+Y1  - 2004/03//
+KW  - Antiretroviral Therapy
+KW  - CD4 Lymphocyte Count
+KW  - Cohort Studies
+KW  - Cross-Sectional Studies
+KW  - Female
+KW  - Highly Active
+KW  - HIV Infections
+KW  - HIV Infections: drug therapy
+KW  - Humans
+KW  - Longitudinal Studies
+KW  - Models
+KW  - Outcome Assessment (Health Care)
+KW  - Probability
+KW  - Statistical
+KW  - United States
+JF  - Statistical methods in medical research
+VL  - 13
+IS  - 1
+SP  - 17
+EP  - 48
+UR  - http://www.ncbi.nlm.nih.gov/pubmed/14746439
+N2  - Inferring causal effects from longitudinal repeated measures data has high relevance to a number of areas of research, including economics, social sciences and epidemiology. In observational studies in particular, the treatment receipt mechanism is typically not under the control of the investigator; it can depend on various factors, including the outcome of interest. This results in differential selection into treatment levels, and can lead to selection bias when standard routines such as least squares regression are used to estimate causal effects. Interestingly, both the characterization of and methodology for handling selection bias can differ substantially by disciplinary tradition. In social sciences and economics, instrumental variables (IV) is the standard method for estimating linear and nonlinear models in which the error term may be correlated with an observed covariate. When such correlation is not ruled out, the covariate is called endogenous and least squares estimates of the covariate effect are typically biased. The availability of an instrumental variable can be used to reduce or eliminate the bias. In public health and clinical medicine (e.g., epidemiology and biostatistics), selection bias is typically viewed in terms of confounders, and the prevailing methods are geared toward making proper adjustments via explicit use of observed confounders (e.g., stratification, standardization). A class of methods known as inverse probability weighting (IPW) estimators, which relies on modeling selection in terms of confounders, is gaining in popularity for making such adjustments. Our objective is to review and compare IPW and IV for estimating causal treatment effects from longitudinal data, where the treatment may vary with time. We accomplish this by defining the causal estimands in terms of a linear stochastic model of potential outcomes (counterfactuals). Our comparison includes a review of terminology typically used in discussions of causal inference (e.g., confounding, endogeneity); a review of assumptions required to identify causal effects and their implications for estimation and interpretation; description of estimation via inverse weighting and instrumental variables; and a comparative analysis of data from a longitudinal cohort study of HIV-infected women. In our discussion of assumptions and estimation routines, we try to emphasize sufficient conditions needed to implement relatively standard analyses that can essentially be formulated as regression models. In that sense this review is geared toward the quantitative practitioner. The objective of the data analysis is to estimate the causal (therapeutic) effect of receiving combination antiviral therapy on longitudinal CD4 cell counts, where receipt of therapy varies with time and depends on CD4 count and other covariates. Assumptions are reviewed in context, and resulting inferences are compared. The analysis illustrates the importance of considering the existence of unmeasured confounding and of checking for 'weak instruments.' It also suggests that IV methodology may have a role in longitudinal cohort studies where potential instrumental variables are available.
+ER  - 
+TY  - JOUR
+T1  - Causality and counterfactuals in the situation calculus
+A1  - Hopkins, M
+A1  - Pearl, J
+Y1  - 2007/10//
+KW  - Article
+KW  - As
+KW  - CAU
+KW  - Causality
+KW  - CAUSATION
+KW  - commonsense reasoning
+KW  - counterfactual
+KW  - counterfactuals
+KW  - England
+KW  - FRAMEWORK
+KW  - Germany
+KW  - Los Angeles
+KW  - MODEL
+KW  - Models
+KW  - PAPER
+KW  - situation calculus
+KW  - theory
+KW  - Time
+KW  - TIMES
+JF  - Journal of Logic and Computation
+VL  - 17
+IS  - 5
+SP  - 939
+EP  - 953
+CY  - Univ Potsdam, Dept Linguist, Potsdam, Germany Univ Calif Los Angeles, Dept Comp Sci, Los Angeles, CA 90024 USA
+UR  - ISI:000250682700005
+UR  - causality and counterfactuals in the situation calculus
+N1  - Times Cited: 0 Proceedings Paper English Hopkins, M Univ Potsdam, Dept Linguist, Potsdam, Germany Cited References Count: 11 227UG OXFORD UNIV PRESS GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND OXFORD
+N2  - Structural causal models offer a popular framework for exploring causal concepts. However, due to their limited expressiveness, structural models have difficulties coping with such concepts as actual (event-to-event) causation. In this article, we propose a new type of causal model, based on embedding structural considerations in the language of situation calculus. By using situation calculus as a basic language, we leverage its power to express complex, dynamically changing situations and, by relying on structural considerations, we can formulate an effective theory of counterfactuals within the situation-calculus
+ER  - 
+TY  - CONF
+T1  - Causal Reasoning : Initial Report of a Naturalistic Study of Causal Inferences Causal Reasoning : Initial Report of a Naturalistic Study of Causal Inferences
+A1  - Klein, Gary
+A1  - Hoffman, Robert
+Y1  - 2009///
+KW  - causal reasoning
+KW  - causality
+KW  - mental models
+KW  - sensemaking
+JF  - Proceedings of NDM9, the 9th International Conference on Naturalistic Decision Making
+IS  - June
+UR  - http://ewic.bcs.org/content/ConWebDoc/26845
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Klein, Hoffman - 2009 - Causal Reasoning Initial Report of a Naturalistic Study of Causal Inferences Causal Reasoning Initial Report of a Naturalistic Study of Causal Inferenc.pdf
+ER  - 
+TY  - JOUR
+T1  - Clinician preferences and the estimation of causal treatment differences
+A1  - Korn, E L
+A1  - Baumrind, S
+Y1  - 1998/08//
+KW  - analysis
+KW  - Article
+KW  - ASSIGNMENT
+KW  - Bayesian methods
+KW  - BIAS
+KW  - BREAST-CANCER
+KW  - California
+KW  - CAU
+KW  - causal effects
+KW  - Clinical
+KW  - clinical trial
+KW  - Clinical Trials
+KW  - CLINICAL-TRIAL
+KW  - CLINICAL-TRIALS
+KW  - clinician
+KW  - CLINICS
+KW  - DECISION
+KW  - design
+KW  - DESIGNS
+KW  - ENCEPHALITIS
+KW  - Ethics
+KW  - EXPERIENCE
+KW  - EXPERIENCES
+KW  - INSTRUMENTAL VARIABLES
+KW  - INTRACRANIAL ARTERIAL BYPASS
+KW  - investment
+KW  - l
+KW  - NEED
+KW  - New Jersey
+KW  - observational studies
+KW  - OPINION
+KW  - PAPER
+KW  - Patient
+KW  - Patients
+KW  - RANDOMIZATION
+KW  - randomized clinical trials
+KW  - Review
+KW  - SAN
+KW  - San Francisco
+KW  - SELECTION
+KW  - Selection Bias
+KW  - Statistics
+KW  - Time
+KW  - TIMES
+KW  - treatment
+KW  - treatment effect
+KW  - TRIALS
+KW  - Universities
+KW  - University
+JF  - Statistical Science
+VL  - 13
+IS  - 3
+SP  - 209
+EP  - 227
+CY  - NCI, Clin Trials Sect, Biometr Res Branch, Bethesda, MD 20892 USA Univ Pacific, San Francisco, CA USA Univ Med & Dent New Jersey, Newark, NJ 07103 USA Univ Calif San Francisco, San Francisco, CA 94143 USA
+UR  - ISI:000077152700001
+UR  - http://www.jstor.org/stable/2676697
+N1  - Times Cited: 6 Article English Korn, E. L NCI, Clin Trials Sect, Biometr Res Branch, Execut Plaza N 739, Bethesda, MD 20892 USA Cited References Count: 90 141PQ INST MATHEMATICAL STATISTICS IMS BUSINESS OFFICE-SUITE 7, 3401 INVESTMENT BLVD, HAYWARD, CA 94545 USA HAYWARD
+N2  - Clinician treatment preferences affect the ability to perform randomized clinical trials and the ability to analyze observational data for treatment effects. In clinical trials, clinician preferences that are based on a subjective analysis of the patient can make it difficult to define eligibility criteria for which clinicians would agree to randomize all patients who satisfy the criteria. In addition, since each clinician typically has some preference for the choice of treatment for a given patient, there are concerns about how strong that preference needs to be before it is inappropriate for him to randomize the choice of treatment. In observational studies, the fact that clinician preferences affect the choice of treatment is a major source of selection bias when estimating treatment effects. In this paper we review alternative designs that have been proposed in the literature for randomized clinical trials that utilize clinician preferences differently than the standard randomized trial design. We also examine the effects of clinician preferences on the ability to estimate causal treatment differences from observational data, and propose an alternative method of analysis for observational data that uses clinician preferences explicitly. We report on our experience to date in using our alternative randomized clinical trial design and our new method of observational analysis to compare two treatments at the orthodontic clinics at the University of California San Francisco and the University of the Pacific, San Francisco
+ER  - 
+TY  - JOUR
+T1  - Beyond logistic regression: structural equations modelling for binary variables and its application to investigating unobserved confounders
+A1  - Kupek, E
+Y1  - 2006///
+KW  - analysis
+KW  - Article
+KW  - As
+KW  - binary variable
+KW  - CAU
+KW  - Cesarean Section
+KW  - classification
+KW  - Comparative Study
+KW  - Confounding Factors (Epidemiology)
+KW  - COVARIANCE
+KW  - Data Interpretation
+KW  - epidemiology
+KW  - EVENTS
+KW  - Female
+KW  - generalised linear model
+KW  - Health
+KW  - health science
+KW  - Humans
+KW  - Infant
+KW  - Intensive Care Units
+KW  - Linear Models
+KW  - Logistic Models
+KW  - logistic regression
+KW  - Medical
+KW  - methods
+KW  - MODEL
+KW  - modelling
+KW  - Models
+KW  - Neonatal
+KW  - Newborn
+KW  - Odds Ratio
+KW  - OR
+KW  - Outcome and Process Assessment (Health Care)
+KW  - OUTCOMES
+KW  - Pregnancy
+KW  - Premature
+KW  - RATIO
+KW  - REGRESSION
+KW  - Risk Factors
+KW  - SAMPLE
+KW  - Science
+KW  - Statistical
+KW  - Statistics
+KW  - SYSTEM
+KW  - UNCERTAINTY
+KW  - Universities
+KW  - University
+KW  - utilization
+KW  - VARIABLES
+JF  - BMC Med Res Methodol.
+VL  - 6
+IS  - 1471-2288 (Electronic) LA - eng PT - Journal Article SB - IM
+SP  - 13
+EP  - 13
+CY  - National Perinatal Epidemiology Unit, Institute of Health Sciences, University of Oxford, UK. kupek@ccs.ufsc.br
+UR  - http://www.biomedcentral.com/1471-2288/6/13
+N1  - DA - 20060406
+N2  - BACKGROUND: Structural equation modelling (SEM) has been increasingly used in medical statistics for solving a system of related regression equations. However, a great obstacle for its wider use has been its difficulty in handling categorical variables within the framework of generalised linear models. METHODS: A large data set with a known structure among two related outcomes and three independent variables was generated to investigate the use of Yule's transformation of odds ratio (OR) into Q-metric by (OR-1)/(OR+1) to approximate Pearson's correlation coefficients between binary variables whose covariance structure can be further analysed by SEM. Percent of correctly classified events and non-events was compared with the classification obtained by logistic regression. The performance of SEM based on Q-metric was also checked on a small (N = 100) random sample of the data generated and on a real data set. RESULTS: SEM successfully recovered the generated model structure. SEM of real data suggested a significant influence of a latent confounding variable which would have not been detectable by standard logistic regression. SEM classification performance was broadly similar to that of the logistic regression. CONCLUSION: The analysis of binary data can be greatly enhanced by Yule's transformation of odds ratios into estimated correlation matrix that can be further analysed by SEM. The interpretation of results is aided by expressing them as odds ratios which are the most frequently used measure of effect in medical statistics
+ER  - 
+TY  - JOUR
+T1  - Causal Effect of Ambulatory Specialty Care on Mortality Following Myocardial Infarction: A Comparison of Propensity Score and Instrumental Variable Analyses
+A1  - Landrum, Mary Beth
+A1  - Ayanian, John Z
+Y1  - 2001/12//
+KW  - analysis
+KW  - As
+KW  - BIAS
+KW  - Cardiology
+KW  - CARE
+KW  - CAU
+KW  - Health
+KW  - Health Policy
+KW  - instrumental variable
+KW  - INSTRUMENTAL VARIABLES
+KW  - ISSUES
+KW  - Mortality
+KW  - Myocardial Infarction
+KW  - MYOCARDIAL-INFARCTION
+KW  - New York
+KW  - NEW-YORK-STATE
+KW  - OBSERVATIONAL DATA
+KW  - OUTCOMES
+KW  - Patient
+KW  - Patients
+KW  - Physicians
+KW  - POLICY
+KW  - PRIMARY-CARE
+KW  - PROPENSITY SCORE
+KW  - QUALITY
+KW  - Research
+KW  - STRATEGIES
+KW  - STRATEGY
+KW  - VARIABLES
+JF  - Health Services and Outcomes Research Methodology
+VL  - 2
+IS  - 3
+SP  - 221
+EP  - 245
+UR  - http://dx.doi.org/10.1023/A:1020367111374
+N2  - The quality and outcomes of care provided by primary care physicians and specialists are increasingly important issues in health policy research. Estimating the effect of specialty care on patient outcomes however is complicated by the observational nature of the studies. Patients treated by specialists are often different in terms of observed and unobserved characteristics that can bias estimates of specialty effects. We illustrate and compare two different analytic approaches, propensity scores and instrumental variables, to infer the causal effect of cardiology care in the ambulatory setting on 18-month mortality among 5467 elderly patients who survived at least 3 months after being hospitalized for a myocardial infarction in New York state during 1994 and 1995. Using both approaches we found reductions in 18-month mortality associated with ambulatory cardiology care. However, reasonable deviations from the assumptions underlying each method led to estimated differences in mortality ranging from a 6% absolute reduction in mortality to a 2% increase among patients who received cardiology care. Choosing an analytic strategy depends on both available data and the policy question of interest. We believe that comparative analyses such as this one, with extensive assessment of the assumptions underlying each method, can provide valuable insights into important policy questions reliant on the analysis of observational data
+ER  - 
+TY  - CHAP
+T1  - Causal Inference from Graphical Models
+A1  - Lauritzen, Ste L
+Y1  - 2000///
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lauritzen - 2000 - Causal Inference from Graphical Models(4).pdf
+ER  - 
+TY  - GEN
+T1  - Graphical Models for Causal Inference
+A1  - Lauritzen, Steffen L
+Y1  - 2005///
+JF  - Society
+CY  - Oxford
+UR  - http://www.stats.ox.ac.uk/~steffen/seminars/rescausc.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lauritzen - 2005 - Graphical Models for Causal Inference(2).pdf
+ER  - 
+TY  - CHAP
+T1  - Causal Graphical Models with Latent Variables: Learning and Inference
+A1  - Leray, Philippe
+A1  - Meganek, Stijn
+A1  - Maes, Sam
+A1  - Manderick, Bernard
+A1  - Holmes, Dawn
+A1  - Jain, Lakhmi
+ED  - Holmes, Dawn E.
+ED  - Jain, Lakhmi C.
+Y1  - 2008///
+PB  - Springer Berlin Heidelberg
+JF  - Innovations in Bayesian Networks
+VL  - 156
+T3  - Studies in Computational Intelligence
+SP  - 219
+EP  - 249
+CY  - Berlin, Heidelberg
+UR  - http://www.springerlink.com/content/1087qn7q57r32lu7/
+N2  - This chapter discusses causal graphical models for discrete variables that can handle latent variables without explicitly modeling them quantitatively. In the uncertainty in artificial intelligence area there exist several paradigms for such problem domains. Two of them are semi-Markovian causal models and maximal ancestral graphs . Applying these techniques to a problem domain consists of several steps, typically: structure learning from observational and experimental data, parameter learning, probabilistic inference, and, quantitative causal inference.
+ER  - 
+TY  - JOUR
+T1  - Seeing and doing: the concept of causation
+A1  - Lindley, D V
+Y1  - 2002/08//
+KW  - Article
+KW  - ASSOCIATION
+KW  - CAU
+KW  - causal mechanism
+KW  - Causality
+KW  - CAUSATION
+KW  - counterfactual
+KW  - covariate
+KW  - Decision Making
+KW  - directed acyclic graph
+KW  - England
+KW  - INFERENCE
+KW  - multivariate distribution
+KW  - Netherlands
+KW  - REGRESSION
+KW  - Review
+KW  - Simpson's paradox
+KW  - Statistical
+KW  - structural equation
+KW  - Time
+KW  - TIMES
+JF  - International Statistical Review
+VL  - 70
+IS  - 2
+SP  - 191
+EP  - 197
+CY  - Woodstock, Minehead TA24 5QU, Somerset, England
+UR  - ISI:000177156600002
+UR  - http://bayes.cs.ucla.edu/BOOK-2K/lindley-rev.pdf
+N1  - Times Cited: 8 Article English Lindley, D. V Woodstock, Quay Lane, Minehead TA24 5QU, Somerset, England Cited References Count: 4 579BY INT STATISTICAL INST 428 PRINSES BEATRIXLAAN, 2270 AZ VOORBURG, NETHERLANDS VOORBURG
+N2  - This note is an extended review of the book by Judea Pearl (2000) on causality, in which the basic concepts therein are explained in a form that statisticians will hopefully appreciate, including some comments on their relevance to inference and decision-making
+ER  - 
+TY  - JOUR
+T1  - Estimating causal effects
+A1  - Maldonado, G
+A1  - Greenland, S
+Y1  - 2002/04//
+KW  - Article
+KW  - CAU
+KW  - COLLAPSIBILITY
+KW  - DIAGRAMS
+KW  - England
+KW  - INFERENCE
+KW  - Los Angeles
+KW  - Minnesota
+KW  - Time
+KW  - TIMES
+JF  - International Journal of Epidemiology
+VL  - 31
+IS  - 2
+SP  - 422
+EP  - 429
+CY  - Univ Minnesota, Sch Publ Hlth, Minneapolis, MN 55455 USA Univ Calif Los Angeles, Sch Publ Hlth, Dept Epidemiol, Los Angeles, CA 90095 USA
+UR  - ISI:000175882500027
+UR  - http://ije.oxfordjournals.org/content/31/2/422.full.pdf
+N1  - Times Cited: 59 Article English Maldonado, G Univ Minnesota, Sch Publ Hlth, Mayo Mail Code 807,420 Delaware St SE, Minneapolis, MN 55455 USA Cited References Count: 42 556ZY OXFORD UNIV PRESS GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND OXFORD
+ER  - 
+TY  - UNPB
+T1  - Fundamental disease probability inference: A new paradigm for causal inference in the biological sciences.
+A1  - Mark, Steven D
+JF  - Sciences-New York
+DO  - 10.1214/08-AOAS170SUPP
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Mark - Unknown - Fundamental disease probability inference A new paradigm for causal inference in the biological sciences.pdf
+ER  - 
+TY  - JOUR
+T1  - Principles and practice in reporting structural equation analyses
+A1  - McDonald, R P
+A1  - Ho, M H R
+Y1  - 2002/03//
+KW  - 2-STEP APPROACH
+KW  - Article
+KW  - As
+KW  - CAU
+KW  - COVARIANCE STRUCTURE-ANALYSIS
+KW  - Exercise
+KW  - FIT
+KW  - GOODNESS
+KW  - identifiability
+KW  - INCOMPLETE DATA
+KW  - INFORMATION
+KW  - MAXIMUM LIKELIHOOD
+KW  - MODEL
+KW  - modeling
+KW  - Models
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - PATH-ANALYSIS
+KW  - Practice
+KW  - structural equation modeling
+KW  - TEST STATISTICS
+KW  - Time
+KW  - TIMES
+KW  - VARIABLES
+KW  - Washington
+JF  - Psychological Methods
+VL  - 7
+IS  - 1
+SP  - 64
+EP  - 82
+CY  - Univ Illinois, Dept Psychol, Champaign, IL 61820 USA
+DO  - 10.1037/1082-989X.7.1.64
+UR  - ISI:000174483300004
+N1  - Times Cited: 235 Article English McDonald, R. P Univ Illinois, Dept Psychol, 603 E Daniel St, Champaign, IL 61820 USA Cited References Count: 98 532PB AMER PSYCHOLOGICAL ASSOC 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA WASHINGTON
+N2  - Principles for reporting analyses using structural equation modeling are reviewed, with the goal of supplying readers with complete and accurate information. It is recommended that every report give a detailed justification of the model used, along with plausible alternatives and an account of identifiability. Nonnormality and missing data problems should also be addressed. A complete set of parameters and their standard errors is desirable, and it will often be convenient to supply the correlation matrix and discrepancies, as well as goodness-of-fit indices, so that readers can exercise independent critical judgment. A survey of fairly representative studies compares recent practice with the principles of reporting recommended here
+ER  - 
+TY  - JOUR
+T1  - Causality and association: The statistical and legal approaches
+A1  - Mengersen, K
+A1  - Moynihan, S A
+A1  - Tweedie, R L
+Y1  - 2007/05//
+KW  - admissible evidence
+KW  - analysis
+KW  - Article
+KW  - As
+KW  - ASBESTOS-EXPOSURE
+KW  - ASSOCIATION
+KW  - Australia
+KW  - BALANCE
+KW  - CAU
+KW  - Causality
+KW  - CAUSATION
+KW  - CIGARETTE-SMOKING
+KW  - Colorado
+KW  - COMPENSATION
+KW  - epidemiological risk
+KW  - EXPOSURE
+KW  - FRAMEWORK
+KW  - INFORMATION
+KW  - INTRAUTERINE-DEVICE
+KW  - legal causation
+KW  - LUNG-CANCER
+KW  - METHODOLOGY
+KW  - NEED
+KW  - negligence
+KW  - OR
+KW  - OUTCOMES
+KW  - PAPER
+KW  - PELVIC INFLAMMATORY DISEASE
+KW  - Population
+KW  - population-based
+KW  - probabilistic
+KW  - PROBABILITIES
+KW  - Probability
+KW  - RELATIVE RISK
+KW  - Review
+KW  - Risk
+KW  - Statistical
+KW  - statistical causation
+KW  - Statistics
+KW  - Terminology
+KW  - TESTS
+KW  - Time
+KW  - TIMES
+KW  - TOBACCO-SMOKE
+KW  - tort
+KW  - WOMENS HEALTH
+JF  - Statistical Science
+VL  - 22
+IS  - 2
+SP  - 227
+EP  - 254
+CY  - Queensland Univ Technol, Dept Stat, Brisbane, Qld 4001, Australia Queensland Univ Technol, Fac Sci, Brisbane, Qld 4001, Australia Queensland Univ Technol, Fac Law, Brisbane, Qld 4001, Australia Colorado State Univ, Dept Stat, Ft Collins, CO 80523 USA
+UR  - ISI:000250354700005
+UR  - http://eprints.qut.edu.au/14956/1/14956.pdf
+N1  - Times Cited: 0 Article English Moynihan, S. A Queensland Univ Technol, Dept Stat, Brisbane, Qld 4001, Australia Cited References Count: 74 223FJ INST MATHEMATICAL STATISTICS PO BOX 22718, BEACHWOOD, OH 44122 USA BEACHWOOD
+N2  - This paper discusses different needs and approaches to establishing "causation" that are relevant in legal cases involving statistical input based on epidemiological (or more generally observational or population-based) information. We distinguish between three versions of "cause": the first involves negligence in providing or allowing exposure, the second involves "cause" as it is shown through a scientifically proved increased risk of an outcome from the exposure in a population, and the third considers "cause" as it might apply to an individual plaintiff based on the first two. The population-oriented "cause" is that commonly addressed by statisticians, and we propose a variation on the Bradford Hill approach to testing such causality in an observational framework, and discuss how such a systematic series of tests might be considered in a legal context. We review some current legal approaches to using probabilistic statements, and link these with the scientific methodology as developed here. In particular, we provide an approach both to the idea of individual outcomes being caused on a balance of probabilities, and to the idea of material contribution to such outcomes. Statistical terminology and legal usage of terms such as "proof on the balance of probabilities" or "causation" can easily become confused, largely due to similar language describing dissimilar concepts; we conclude, however, that a careful analysis can identify and separate those areas in which a legal decision alone is required and those areas in which scientific approaches are useful
+ER  - 
+TY  - JOUR
+T1  - From Association to Causation via a Potential Outcomes Approach
+A1  - Mithas, S.
+A1  - Krishnan, M. S.
+Y1  - 2008/12//
+KW  - business value of IT
+KW  - causal analysis
+KW  - counterfactual approach
+KW  - IT professionals
+KW  - matching estimator
+KW  - MBA
+KW  - propensity score
+KW  - returns on MBA
+KW  - selection on unobservables
+KW  - sensitivity analysis
+KW  - treatment effect heterogeneity
+JF  - Information Systems Research
+VL  - 20
+IS  - 2
+SP  - 295
+EP  - 313
+UR  - http://dl.acm.org/citation.cfm?id=1557601.1557609
+ER  - 
+TY  - GEN
+T1  - Modeling uncertain interventions
+A1  - Murphy, Kevin
+JF  - Review Literature And Arts Of The Americas
+UR  - http://clopinet.com/isabelle/Projects/NIPS2008/slides/Murphy_nips08_causality_slides.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Murphy - Unknown - Modeling uncertain interventions(2).pdf
+ER  - 
+TY  - UNPB
+T1  - Expression of Treatment Effects: Issues and Solutions
+A1  - Nguyen, Tuan V
+Y1  - 2009///
+KW  - Australia
+KW  - CAU
+KW  - ISSUES
+KW  - Medical
+KW  - Research
+KW  - treatment
+KW  - treatment effect
+N1  - Garvan Institute of Medical Research, Sydney, Australia
+ER  - 
+TY  - JOUR
+T1  - What characterises a useful concept of causation in epidemiology?
+A1  - Olsen, J
+Y1  - 2003/02//
+KW  - As
+KW  - CAU
+KW  - CAUSE
+KW  - Denmark
+KW  - design
+KW  - England
+KW  - epidemiology
+KW  - LINE
+KW  - London
+KW  - MODEL
+KW  - probabilistic
+KW  - Review
+KW  - Time
+KW  - TIMES
+JF  - Journal of Epidemiology and Community Health
+VL  - 57
+IS  - 2
+SP  - 86
+EP  - 88
+CY  - Univ Aarhus, Danish Epidemiol Sci Ctr, DK-8000 Aarhus C, Denmark
+DO  - 10.1136/JECH.57.2.86
+UR  - ISI:000180747000005
+N1  - Times Cited: 10 Review English Olsen, J Univ Aarhus, Danish Epidemiol Sci Ctr, Vennelyst Blvd 6, DK-8000 Aarhus C, Denmark Cited References Count: 15 641LV BRITISH MED JOURNAL PUBL GROUP BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND LONDON
+N2  - It has recently been suggested that epidemiologists should avoid thinking of causes in deterministic terms. This would mean giving up the component-cause model in its original form. A model that has provided important contributions as to how we develop hypotheses, design our study, analyse data, interpret and communicate our results. The component-cause model has considerably more to offer than a simple probabilistic concept. What a causal model has to offer to the advancement of the discipline is equally important as the concept itself. It has been said that we should not hunt "the Holy Grail" (that is, determinism), if it does not exist. This line of reasoning neglects the fact that the "hunting" is more important than the "finding"
+ER  - 
+TY  - JOUR
+T1  - Causal diagrams for empirical research
+A1  - Pearl, J
+Y1  - 1995/12//
+KW  - Article
+KW  - As
+KW  - CAU
+KW  - causal inference
+KW  - DIAGRAMS
+KW  - distribution
+KW  - DISTRIBUTIONS
+KW  - England
+KW  - EXPERT-SYSTEMS
+KW  - FRAMEWORK
+KW  - graph model
+KW  - independence
+KW  - INFERENCE
+KW  - INFORMATION
+KW  - London
+KW  - MODEL
+KW  - Models
+KW  - NETWORKS
+KW  - Observation
+KW  - OR
+KW  - PAPER
+KW  - Research
+KW  - Statistical
+KW  - structural equations
+KW  - Time
+KW  - TIMES
+KW  - treatment effect
+JF  - Biometrika
+VL  - 82
+IS  - 4
+SP  - 669
+EP  - 688
+UR  - ISI:A1995TT22800001
+UR  - http://bayes.cs.ucla.edu/R218-B.pdf
+N1  - Times Cited: 204 Article English Pearl, J UNIV CALIF LOS ANGELES,DEPT COMP SCI,COGNIT SYST LAB,LOS ANGELES,CA 90024 Cited References Count: 45 TT228 BIOMETRIKA TRUST UNIV COLLEGE LONDON GOWER ST-BIOMETRIKA OFFICE, LONDON, ENGLAND WC1E 6BT LONDON
+N2  - The primary aim of this paper is to show how graphical models can be used as a mathematical language for integrating statistical and subject-matter information. In particular, the paper develops a principled, nonparametric framework for causal inference, in which diagrams are queried to determine if the assumptions available are sufficient for identifying causal effects from nonexperimental data. If so the diagrams can be queried to produce mathematical expressions for causal effects in terms of observed distributions; otherwise, the diagrams can be queried to suggest additional observations or auxiliary experiments from which the desired inferences can be obtained
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Comment
+A1  - Pearl, Judea
+Y1  - 2000/06//
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - counterfactuals
+KW  - INFERENCE
+KW  - Philosophy
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 428
+EP  - 431
+UR  - ISI:000087716200008
+UR  - http://www.jstor.org/stable/2669380
+N1  - Times Cited: 2 Editorial Material English Casella, G Cornell Univ, Dept Biometr, Ithaca, NY USA Cited References Count: 6 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - RPRT
+T1  - The Causal Foundations of Structural Equation Modeling
+A1  - Pearl, Judea
+Y1  - 2011///
+JF  - Science
+IS  - November
+SP  - 1
+EP  - 36
+UR  - ftp://ftp.cs.ucla.edu/pub/stat_ser/r370.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pearl - 2011 - The Causal Foundations of Structural Equation Modeling(4).pdf
+ER  - 
+TY  - JOUR
+T1  - Causal inference in statistics: An overview
+A1  - Pearl, Judea
+Y1  - 2009///
+KW  - and phrases
+KW  - causal effects
+KW  - causes of effects
+KW  - confounding
+KW  - counterfactuals
+KW  - graph-
+KW  - ical methods
+KW  - mediation
+KW  - policy evaluation
+KW  - potential-outcome
+KW  - received september 2009
+KW  - structural equation models
+JF  - Statistics Surveys
+VL  - 3
+SP  - 96
+EP  - 146
+UR  - http://projecteuclid.org/euclid.ssu/1255440554
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pearl - 2009 - Causal inference in statistics An overview(3).pdf
+ER  - 
+TY  - JOUR
+T1  - Causal Inference in the Health Sciences: A Conceptual Introduction
+A1  - Pearl, Judea
+Y1  - 2001/12//
+KW  - analysis
+KW  - CAU
+KW  - causal analysis
+KW  - causal inference
+KW  - control
+KW  - counterfactual
+KW  - Health
+KW  - health science
+KW  - health service
+KW  - Health Services
+KW  - INFERENCE
+KW  - methods
+KW  - PAPER
+KW  - Science
+KW  - SERVICES
+KW  - Statistical
+KW  - statistical analysis
+KW  - STATISTICAL-ANALYSIS
+KW  - STRESS
+JF  - Health Services and Outcomes Research Methodology
+VL  - 2
+IS  - 3
+SP  - 189
+EP  - 220
+UR  - http://dx.doi.org/10.1023/A:1020315127304
+N2  - This paper provides a conceptual introduction to causal inference, aimed to assist health services researchers benefit from recent advances in this area. The paper stresses the paradigmatic shifts that must be undertaken in moving from traditional statistical analysis to causal analysis of multivariate data. Special emphasis is placed on the assumptions that underlie all causal inferences, the languages used in formulating those assumptions, and the conditional nature of causal claims inferred from nonexperimental studies. These emphases are illustrated through a brief survey of recent results, including the control of confounding, corrections for noncompliance, and a symbiosis between counterfactual and graphical methods of analysis
+ER  - 
+TY  - JOUR
+T1  - Influence Diagrams--Historical and Personal Perspectives
+A1  - Pearl, Judea
+Y1  - 2005/12//
+KW  - CAU
+KW  - Decision Making
+KW  - DIAGRAMS
+KW  - feature
+KW  - INFERENCE
+KW  - methods
+KW  - MODEL
+KW  - modeling
+KW  - Models
+KW  - modular
+KW  - NETWORKS
+KW  - PROBABILITIES
+KW  - Probability
+KW  - Research
+JF  - Decision Analysis
+VL  - 2
+IS  - 4
+SP  - 232
+EP  - 234
+UR  - http://da.journal.informs.org/cgi/content/abstract/2/4/232
+N1  - 10.1287/deca.1050.0055
+N2  - The usefulness of graphical models in reasoning and decision making stems from facilitating four main computational features: (1) modular representation of probabilities, (2) systematic construction methods, (3) explicit encoding of independencies, and (4) efficient inference procedures. This note explains why the original introduction of influence diagrams, lacking formal underpinning of these features, has had only mild influence on automated reasoning research, and how Bayesian belief networks, which were formulated and defined directly by these features, became the focus of graphical modeling research
+ER  - 
+TY  - JOUR
+T1  - An introduction to causal inference.
+A1  - Pearl, Judea
+Y1  - 2010/01//
+JF  - The International Journal of Biostatistics
+VL  - 6
+IS  - 2
+SP  - Article 7
+EP  - Article 7
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2836213&tool=pmcentrez&rendertype=abstract
+N2  - This paper summarizes recent advances in causal inference and underscores the paradigmatic shifts that must be undertaken in moving from traditional statistical analysis to causal analysis of multivariate data. Special emphasis is placed on the assumptions that underlie all causal inferences, the languages used in formulating those assumptions, the conditional nature of all causal and counterfactual claims, and the methods that have been developed for the assessment of such claims. These advances are illustrated using a general theory of causation based on the Structural Causal Model (SCM) described in Pearl (2000a), which subsumes and unifies other approaches to causation, and provides a coherent mathematical foundation for the analysis of causes and counterfactuals. In particular, the paper surveys the development of mathematical tools for inferring (from a combination of data and assumptions) answers to three types of causal queries: those about (1) the effects of potential interventions, (2) probabilities of counterfactuals, and (3) direct and indirect effects (also known as "mediation"). Finally, the paper defines the formal and conceptual relationships between the structural and potential-outcome frameworks and presents tools for a symbiotic analysis that uses the strong features of both. The tools are demonstrated in the analyses of mediation, causes of effects, and probabilities of causation.
+ER  - 
+TY  - BOOK
+T1  - Causality: models, reasoning, and inference
+A1  - Pearl, Judea
+Y1  - 2000///
+KW  - CAU
+KW  - Causality
+KW  - INFERENCE
+KW  - MODEL
+KW  - Models
+PB  - Cambridge University Press
+ER  - 
+TY  - UNPB
+T1  - Causal Reasoning Based on MFM
+A1  - Petersen, Johannes
+JF  - Building
+UR  - http://imv.au.dk/~pba/Preprints/CSEPC_00.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Petersen - Unknown - Causal Reasoning Based on MFM.pdf
+ER  - 
+TY  - JOUR
+T1  - Estimation of direct causal effects
+A1  - Petersen, M L
+A1  - Sinisi, S E
+A1  - van der Laan, M J
+Y1  - 2006/05//
+KW  - APOPTOSIS
+KW  - Article
+KW  - As
+KW  - CAU
+KW  - CAUSE
+KW  - Clinical
+KW  - CLINICAL RESEARCH
+KW  - counterfactual
+KW  - Disease
+KW  - EXPOSURE
+KW  - FRAMEWORK
+KW  - l
+KW  - OR
+KW  - PATHWAY
+KW  - PATHWAYS
+KW  - Philadelphia
+KW  - REGRESSION
+KW  - Research
+KW  - Review
+KW  - Software
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+KW  - VARIABLES
+JF  - Epidemiology
+VL  - 17
+IS  - 3
+SP  - 276
+EP  - 284
+CY  - Univ Calif Berkeley, Sch Publ Hlth, Div Biostat, Berkeley, CA 94720 USA
+DO  - 10.1097.01.ede.0000208475.99429.2d
+UR  - ISI:000236926500013
+N1  - Times Cited: 19 Article English Petersen, M. L Univ Calif Berkeley, Sch Publ Hlth, Div Biostat, Earl Warren Hall 7360, Berkeley, CA 94720 USA Cited References Count: 13 034JY LIPPINCOTT WILLIAMS & WILKINS 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA PHILADELPHIA
+N2  - Many common problems in epidemiologic and clinical research involve estimating the effect of an exposure on an outcome while blocking the exposure's effect on an intermediate variable. Effects of this kind are termed direct effects. Estimation of direct effects is typically the goal of research aimed at understanding mechanistic pathways by which an exposure acts to cause or prevent disease, as well as in many other settings. Although multivariable regression is commonly used to estimate direct effects, this approach requires assumptions beyond those required for the estimation of total causal effects. In addition, when the exposure and intermediate variables interact to cause disease, multivariable regression estimates a particular type of direct effect-the effect of an exposure on an outcome when the intermediate is fixed at a specified level. Using the counterfactual framework, we distinguish this definition of a direct effect (controlled direct effect) from an alternative definition, in which the effect of the exposure on the intermediate is blocked, but the inter-mediate is otherwise allowed to vary as it would in the absence of exposure (natural direct effect). We illustrate the difference between controlled and natural direct effects using several examples. We present an estimation approach for natural direct effects that can be implemented using standard statistical software, and we review the assumptions underlying our approach (which are less restrictive than those proposed by previous authors)
+ER  - 
+TY  - JOUR
+T1  - Caregiving process and caregiver burden: Conceptual models to guide research and practice
+A1  - Raina, Parminder
+A1  - O'Donnell, Maureen
+A1  - Schwellnus, Heidi
+A1  - Rosenbaum, Peter
+A1  - King, Gillian
+A1  - Brehaut, Jamie
+A1  - Russell, Dianne
+A1  - Swinton, Marilyn
+A1  - King, Susanne
+A1  - Wong, Micheline
+A1  - Walter, Stephen
+A1  - Wood, Ellen
+Y1  - 2004///
+KW  - ADAPTATION
+KW  - As
+KW  - ASSOCIATION
+KW  - behaviour
+KW  - CARE
+KW  - caregiver
+KW  - CAU
+KW  - Child
+KW  - DISABILITIES
+KW  - disability
+KW  - FRAMEWORK
+KW  - FUTURE
+KW  - Health
+KW  - ISSUES
+KW  - KNOWLEDGE
+KW  - MODEL
+KW  - Models
+KW  - OR
+KW  - OUTCOMES
+KW  - PAPER
+KW  - PARENTS
+KW  - Pediatrics
+KW  - Population
+KW  - Practice
+KW  - Research
+KW  - role
+KW  - Social Support
+KW  - STRATEGIES
+KW  - STRATEGY
+KW  - STRESS
+KW  - Support
+JF  - BMC Pediatrics
+VL  - 4
+IS  - 1
+SP  - 1
+EP  - 1
+UR  - http://www.biomedcentral.com/1471-2431/4/1
+N2  - BACKGROUND:Parental care for a child with a developmental disability is an enormous responsibility, one that can far exceed that of typical parental care. While most parents adapt well to the situation of caring for a child with a disability, some do not. To understand parents' adaptations to their children's disabilities, the complex nature of stress processes must be accounted for and the constructs and factors that play a role in the caregiving must be considered.DISCUSSION:Evidence suggests that there is considerable variation in how caregivers adapt to their caregiving demands. Many studies have sought to qualify the association between caregiving and health outcomes of the caregivers. Contextual factors such as SES, child factors such as child behaviour problems and severity of disability, intra-psychic factors such as mastery and self-esteem, coping strategies and social supports have all been associated with psychological and/or physical outcome or parents or primary caregivers. In reviewing these issues, the literature appears to be limited by the use of traditional analytic approaches which examine the relationship between a factor and an outcome. It is clear, however, that changes to single factors, as represented in these studies, occur very rarely even in the experimental context. The literature has also been limited by lack of reliance on specific theoretical frameworks.SUMMARY:This conceptual paper documents the state of current knowledge and explores the current theoretical frameworks that have been used to describe the caregiving process from two diverse fields, pediatrics and geriatrics. Integration of these models into one comprehensive model suitable for this population of children with disabilities and their caregivers is proposed. This model may guide future research in this area
+ER  - 
+TY  - JOUR
+T1  - Causal reasoning and the diagnostic process
+A1  - Rizzi, Dominick A.
+Y1  - 1994/09//
+JF  - Theoretical Medicine and Bioethics
+VL  - 15
+IS  - 3
+SP  - 315
+EP  - 333
+UR  - http://www.springerlink.com/content/l7r56550150l6867
+N2  - Background: Causal reasoning as a way to make a diagnosis seems convincing. Modern medicine depends on the search for causes of disease and it seems fair to assert that such knowledge is employed in diagnosis. Causal reasoning as it has been presented neglects to some extent the conception of multifactorial disease causes.
+ER  - 
+TY  - JOUR
+T1  - Causality in medicine: Towards a theory and terminology
+A1  - Rizzi, Dominick A.
+A1  - Pedersen, Stig Andur
+Y1  - 1992/09//
+JF  - Theoretical Medicine and Bioethics
+VL  - 13
+IS  - 3
+SP  - 233
+EP  - 254
+UR  - http://www.springerlink.com/content/tm5m3r41tq111532
+N2  - One of the cornerstones of modern medicine is the search for what causes diseases to develop. A conception of multifactorial disease causes has emerged over the years. Theories of disease causation, however, have not quite been developed in accordance with this view. It is the purpose of this paper to provide a fundamental explication of aspects of causation relevant for discussing causes of disease.
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Comment
+A1  - Robins, J M
+A1  - Greenland, S
+Y1  - 2000/06//
+KW  - Boston
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - INFERENCE
+KW  - Los Angeles
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 431
+EP  - 435
+CY  - Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA Univ Calif Los Angeles, Sch Publ Hlth, Los Angeles, CA 90095 USA
+UR  - ISI:000087716200010
+UR  - http://www.jstor.org/stable/2669381
+N1  - Times Cited: 27 Editorial Material English Robins, J. M Harvard Univ, Sch Publ Hlth, Boston, MA 02115 USA Cited References Count: 22 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - JOUR
+T1  - Association, causation, and marginal structural models ∗ 1.
+A1  - Robins, James M.
+Y1  - 1999/11//
+KW  - Humanities
+KW  - Social Sciences and Law
+PB  - Springer Netherlands
+JF  - Synthese
+VL  - 121
+IS  - 1
+SP  - 151
+EP  - 179
+UR  - http://www.springerlink.com/content/n5527334k1478715/
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Robins - 2000 - Association, causation, and marginal structural models ∗ 1(3).pdf
+ER  - 
+TY  - JOUR
+T1  - From Association to Causation in Observational Studies: The Role of Tests of Strongly Ignorable Treatment Assignment
+A1  - Rosenbaum, Paul R.
+Y1  - 2011/08//
+KW  - Causal effects of treatments
+KW  - Ignorable treatment assignment
+KW  - Observations studies
+KW  - Unobserve covariates
+PB  - American Statistical Association
+UR  - http://www.jstor.org/pss/2288332
+N2  - If treatment assignment is strongly ignorable, then adjustment for observed covariates is sufficient to produce consistent estimates of treatment effects in observational studies. A general approach to testing this critical assumption is developed and applied to a study of the effects of nuclear fallout on the risk of childhood leukemia. R.A. Fisher's advice on the interpretation of observational studies was "Make your theories elaborate"; formally, make causal theories sufficiently detailed that, under the theory, strongly ignorable assignment has testable consequences.
+ER  - 
+TY  - JOUR
+T1  - Causes
+A1  - Rothman, K J
+Y1  - 1976///
+KW  - Article
+KW  - Baltimore
+KW  - CAU
+KW  - CAUSE
+KW  - Health
+KW  - Time
+KW  - TIMES
+JF  - American Journal of Epidemiology
+VL  - 104
+IS  - 6
+SP  - 587
+EP  - 592
+CY  - HARVARD UNIV,SCH PUBL HLTH,DEPT EPIDEMIOL,BOSTON,MA 02115
+UR  - ISI:A1976CQ68600001
+N1  - Times Cited: 239 Article English Cited References Count: 8 CQ686 JOHNS HOPKINS UNIV SCHOOL HYGIENE PUB HEALTH 111 MARKET PLACE, STE 840, BALTIMORE, MD 21202-6709 BALTIMORE
+ER  - 
+TY  - JOUR
+T1  - Causal Inference Without Counterfactuals: Comment
+A1  - Rubin, D
+Y1  - 2012///
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 435
+EP  - 438
+UR  - http://www.jstor.org/stable/2669382
+ER  - 
+TY  - JOUR
+T1  - [On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9.] Comment: Neyman (1923) and Causal Inference in Experiments and Observational Studies
+A1  - Rubin, Donald B
+Y1  - 1990/11//
+KW  - CAU
+KW  - causal inference
+KW  - INFERENCE
+KW  - PROBABILITIES
+KW  - Probability
+KW  - theory
+JF  - Statistical Science
+VL  - 5
+IS  - 4
+SP  - 472
+EP  - 480
+UR  - http://www.jstor.org/stable/2245383
+ER  - 
+TY  - JOUR
+T1  - For objective causal inference, design trumps analysis
+A1  - Rubin, Donald B.
+Y1  - 2008/09//
+JF  - The Annals of Applied Statistics
+VL  - 2
+IS  - 3
+SP  - 808
+EP  - 840
+UR  - http://projecteuclid.org/euclid.aoas/1223908042
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Rubin - 2008 - For objective causal inference, design trumps analysis(3).pdf
+ER  - 
+TY  - JOUR
+T1  - Interpreting Causality in the Health Sciences
+A1  - Russo, Federica
+A1  - Williamson, Jon
+Y1  - 2007/07//
+JF  - International Studies in the Philosophy of Science
+VL  - 21
+IS  - 2
+SP  - 157
+EP  - 170
+UR  - http://www.tandfonline.com/doi/abs/10.1080/02698590701498084
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Russo, Williamson - 2007 - Interpreting Causality in the Health Sciences(3).pdf
+ER  - 
+TY  - UNPB
+T1  - Teaching the Normative Theory of Causal Reasoning *
+A1  - Scheines, Richard
+A1  - Easterday, Matt
+A1  - Danks, David
+SP  - 1
+EP  - 33
+UR  - http://repository.cmu.edu/cgi/viewcontent.cgi?article=1432&context=philosophy
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Scheines, Easterday, Danks - Unknown - Teaching the Normative Theory of Causal Reasoning.pdf
+ER  - 
+TY  - JOUR
+T1  - Understanding Heterogeneity of Treatment Effects in Pragmatic Trials
+A1  - Segal, Jodi B
+A1  - Weiss, Carlos
+A1  - Varadhan, Ravi
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Segal, Weiss, Varadhan - Unknown - Understanding Heterogeneity of Treatment Effects in Pragmatic Trials(2).pdf
+ER  - 
+TY  - JOUR
+T1  - Causal Inference Without Counterfactuals: Comment
+A1  - Shafer, G
+Y1  - 2012///
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 438
+EP  - 442
+UR  - http://www.jstor.org/stable/2669383
+ER  - 
+TY  - RPRT
+T1  - Effects of Treatment on the Treated : Identification and Generalization
+A1  - Shpitser, Ilya
+Y1  - 2009///
+IS  - August
+UR  - ftp://ftp.cs.ucla.edu/pub/stat_ser/r349.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shpitser - 2009 - Effects of Treatment on the Treated Identification and Generalization.pdf
+ER  - 
+TY  - JOUR
+T1  - An introduction to causal inference.
+A1  - Spirtes, P.
+Y1  - 2010/01//
+KW  - bayesian networks
+KW  - causal inference
+KW  - causation
+JF  - Journal of Machine Learning Research
+VL  - 11
+SP  - 1643
+EP  - 1662
+UR  - http://jmlr.csail.mit.edu/papers/volume11/spirtes10a/spirtes10a.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Spirtes - 2010 - An introduction to causal inference(3).pdf
+ER  - 
+TY  - JOUR
+T1  - On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9
+A1  - Splawa-Neyman, Jerzy
+A1  - Dabrowska, D M
+A1  - Speed, T P
+Y1  - 1990/11//
+KW  - analysis
+KW  - CAU
+KW  - MODEL
+KW  - PAPER
+KW  - Practice
+KW  - PROBABILITIES
+KW  - Probability
+KW  - Replacement
+KW  - theory
+JF  - Statistical Science
+VL  - 5
+IS  - 4
+SP  - 465
+EP  - 472
+UR  - http://www.jstor.org/stable/2245382
+N2  - In the portion of the paper translated here, Neyman introduces a model for the analysis of field experiments conducted for the purpose of comparing a number of crop varieties, which makes use of a double-indexed array of unknown potential yields, one index corresponding to varieties and the other to plots. The yield corresponding to only one variety will be observed on any given plot, but through an urn model embodying sampling without replacement from this doubly indexed array, Neyman obtains a formula for the variance of the difference between the averages of the observed yields of two varieties. This variance involves the variance over all plots of the potential yields and the correlation coefficient r between the potential yields of the two varieties on the same plot. Since it is impossible to estimate r directly, Neyman advises taking r = 1, observing that in practice this may lead to using too large an estimated standard deviation, when comparing two variety means
+ER  - 
+TY  - JOUR
+T1  - Correlation and causation - a comment
+A1  - Stigler, S
+Y1  - 2005///
+KW  - Baltimore
+KW  - CAU
+KW  - causal inference
+KW  - Causality
+KW  - Chicago
+KW  - eye
+KW  - IMPACT
+KW  - INFERENCE
+KW  - measurement
+KW  - medicine
+KW  - PAPER
+KW  - Publishing
+KW  - Time
+KW  - TIMES
+JF  - Perspectives in Biology and Medicine
+VL  - 48
+IS  - 1
+SP  - S88
+EP  - S94
+CY  - Univ Chicago, Chicago, IL 60637 USA
+DO  - 10.1353/pbm.2005.0045
+UR  - ISI:000226806900008
+N1  - Times Cited: 3 Proceedings Paper English Stigler, S Univ Chicago, Room 102,1118 E 58th St, Chicago, IL 60637 USA Cited References Count: 6 894QO JOHNS HOPKINS UNIV PRESS JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD 21218-4363 USA BALTIMORE Sp. Iss. 1 Suppl. S
+N2  - Some purely methodological comments are made on the pitfalls and difficulties in making causal inferences from observational data, including in studies of disparity in medicine. The ideas of spurious correlation and measurement error are discussed with an eye towards their impact upon inferences about causality, and cautions are offered about over-reliance upon testing hypotheses
+ER  - 
+TY  - JOUR
+T1  - Glossary : causality in public health science
+A1  - Susser, M
+Y1  - 2001/06//
+JF  - Journal of epidemiology and community health
+VL  - 53
+IS  - 6
+SP  - 376
+EP  - 378
+UR  - http://jech.bmj.com/content/55/6/376.short
+UR  - http://jech.bmj.com/cgi/doi/10.1136/jech.55.6.376
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Susser - 2001 - Glossary causality in public health science.pdf
+ER  - 
+TY  - JOUR
+T1  - Causal reasoning in New Caledonian crows: ruling out spatial analogies and sampling error
+A1  - Taylor, Alex
+A1  - Roberts, Reece
+A1  - Hunt, Gavin
+A1  - Gray, Russell
+Y1  - 2009///
+KW  - a large number of
+KW  - analogical reasoning
+KW  - causal reasoning
+KW  - evidence for causal reasoning
+KW  - find conclusive
+KW  - for example
+KW  - in nonhuman animals
+KW  - new caledonian crow
+KW  - studies have failed to
+KW  - to avoid a trap
+KW  - trap-table
+KW  - trap-tube
+KW  - when animals are required
+KW  - while extracting a
+JF  - Communicative & Integrative Biology
+VL  - 2
+IS  - 4
+SP  - 311
+EP  - 312
+UR  - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734031/
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Taylor et al. - 2009 - Causal reasoning in New Caledonian crows Ruling out spatial analogies and sampling error(3).pdf
+ER  - 
+TY  - JOUR
+T1  - Direct Effect Models
+A1  - van der Laan, Mark J
+A1  - Petersen, Maya L
+Y1  - 2009///
+KW  - Article
+KW  - CAU
+KW  - Clinical
+KW  - counterfactual
+KW  - covariate
+KW  - design
+KW  - Health
+KW  - identifiability
+KW  - MODEL
+KW  - Models
+KW  - PARAMETER
+KW  - PARAMETERS
+KW  - PROBABILITIES
+KW  - Probability
+KW  - Public Health
+KW  - PUBLIC-HEALTH
+KW  - RANDOMIZATION
+KW  - treatment
+KW  - VARIABLES
+KW  - Work
+JF  - The International Journal of Biostatistics
+VL  - 4
+IS  - 1
+SP  - 1
+EP  - 27
+UR  - http://www.bepress.com/ijb/vol4/iss1/23/
+N2  - The causal effect of a treatment on an outcome is generally mediated by several intermediate variables. Estimation of the component of the causal effect of a treatment that is not mediated by an intermediate variable (the direct effect of the treatment) is often relevant to mechanistic understanding and to the design of clinical and public health interventions. Robins, Greenland and Pearl develop counterfactual definitions for two types of direct effects, natural and controlled, and discuss assumptions, beyond those of sequential randomization, required for the identifiability of natural direct effects. Building on their earlier work and that of others, this article provides an alternative counterfactual definition of a natural direct effect, the identifiability of which is based only on the assumption of sequential randomization. In addition, a novel approach to direct effect estimation is presented, based on assuming a model directly on the natural direct effect, possibly conditional on a subset of the baseline covariates. Inverse probability of censoring weighted estimators, double robust inverse probability of censoring weighted estimators, likelihood-based estimators, and targeted maximum likelihood-based estimators are proposed for the unknown parameters of this novel causal model.
+ER  - 
+TY  - JOUR
+T1  - Directed acyclic graphs, sufficient causes, and the properties of conditioning on a common effect
+A1  - VanderWeele, T J
+A1  - Robins, J M
+Y1  - 2007/11//
+KW  - 2 DISORDERS
+KW  - Article
+KW  - BIAS
+KW  - Boston
+KW  - CAU
+KW  - Causality
+KW  - CAUSE
+KW  - Chicago
+KW  - collider stratification
+KW  - COVARIANCE
+KW  - DIAGRAMS
+KW  - directed acyclic graphs
+KW  - Epidemiologic Methods
+KW  - FAMILIAL AGGREGATION
+KW  - FRAMEWORK
+KW  - graph
+KW  - independence
+KW  - INFERENCE
+KW  - interaction
+KW  - KNOWLEDGE
+KW  - Models
+KW  - MULTIVARIATE LOGISTIC-REGRESSION
+KW  - PAPER
+KW  - sufficient causes
+KW  - Time
+KW  - TIMES
+JF  - American Journal of Epidemiology
+VL  - 166
+IS  - 9
+SP  - 1096
+EP  - 1104
+CY  - Univ Chicago, Dept Hlth Studies, Div Biol Sci, Chicago, IL 60637 USA Harvard Sch Public Hlth, Dept Epidemiol & Biostat, Boston, MA USA
+DO  - 10.1093/aje/kwm179
+UR  - ISI:000250400700014
+N1  - Times Cited: 5 Article English VanderWeele, T. J Univ Chicago, Dept Hlth Studies, 5841 S Maryland Ave Mc 2007, Chicago, IL 60637 USA Cited References Count: 24 223VN OXFORD UNIV PRESS INC JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA CARY
+N2  - In this paper, the authors incorporate sufficient-component causes into the directed acyclic graph (DAG) causal framework in order to make apparent several properties of conditioning on a common effect. By incorporating sufficient causes on a graph, it is possible to detect conditional independencies within strata of the conditioning variable which are not evident on DAGs without the representation of sufficient causes. It is also possible to determine the sign of the conditional covariance of two causes when conditioning on their common effect if some knowledge of the sufficient-cause mechanisms for the common effect is available. The incorporation of sufficient causes within the DAG framework also allows for the representation of interactions on DAGs and for the unification of several different causal frameworks. For illustration, the results are applied to an example concerning the familial coaggregation of two disorders
+ER  - 
+TY  - JOUR
+T1  - Attributable Fractions for Sufficient Cause Interactions
+A1  - Vanderweele, Tyler J
+Y1  - 2010///
+JF  - The international journal of biostatistics
+VL  - 6
+IS  - 2
+DO  - 10.2202/1557-4679.1202
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Vanderweele - 2010 - Attributable Fractions for Sufficient Cause Interactions(4).pdf
+ER  - 
+TY  - JOUR
+T1  - Marginal structural models for sufficient cause interactions.
+A1  - Vanderweele, Tyler J
+A1  - Vansteelandt, Stijn
+A1  - Robins, James M
+Y1  - 2010/03//
+KW  - Causality
+KW  - Confounding Factors (Epidemiology)
+KW  - Epidemiologic Studies
+KW  - Humans
+KW  - Models
+KW  - Statistical
+JF  - American journal of epidemiology
+VL  - 171
+IS  - 4
+SP  - 506
+EP  - 14
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2877448&tool=pmcentrez&rendertype=abstract
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Vanderweele, Vansteelandt, Robins - 2010 - Marginal structural models for sufficient cause interactions(3).pdf
+N2  - Sufficient cause interactions concern cases in which there is a particular causal mechanism for some outcome that requires the presence of 2 or more specific causes to operate. Empirical conditions have been derived to test for sufficient cause interactions. However, when regression outcome models are used to control for confounding variables in tests for sufficient cause interactions, the outcome models impose restrictions on the relation between the confounding variables and certain unidentified background causes within the sufficient cause framework; often, these assumptions are implausible. By using marginal structural models, rather than outcome regression models, to test for sufficient cause interactions, modeling assumptions are instead made on the relation between the causes of interest and the confounding variables; these assumptions will often be more plausible. The use of marginal structural models also allows for testing for sufficient cause interactions in the presence of time-dependent confounding. Such time-dependent confounding may arise in cases in which one factor of interest affects both the second factor of interest and the outcome. It is furthermore shown that marginal structural models can be used not only to test for sufficient cause interactions but also to give lower bounds on the prevalence of such sufficient cause interactions.
+ER  - 
+TY  - GEN
+T1  - Towards Individualizing Treatment: An Analytic Framework to Study
+A1  - Varadhan, Ravi
+A1  - Segal, Jodi B
+A1  - Scharfstein, Daniel
+A1  - Boyd, Cynthia
+A1  - Weiss, Carlos
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Varadhan et al. - Unknown - Towards Individualizing Treatment An Analytic Framework to Study(2).pdf
+ER  - 
+TY  - JOUR
+T1  - Causality in epidemiology
+A1  - Vineis, P
+Y1  - 2003///
+KW  - Article
+KW  - BIAS
+KW  - CAU
+KW  - Causality
+KW  - conditional counterfactuals
+KW  - conditionalized realism
+KW  - design
+KW  - DESIGNS
+KW  - epidemiology
+KW  - experimental approach
+KW  - Italy
+KW  - MODEL
+KW  - Models
+KW  - PATHWAY
+KW  - PATHWAYS
+KW  - Population
+KW  - probabilistic models
+KW  - proof
+KW  - Risk
+KW  - risk factor
+KW  - Risk Factors
+KW  - RISK-FACTORS
+KW  - SAN
+KW  - Science
+KW  - Social Sciences
+KW  - Surveys
+KW  - Time
+KW  - TIMES
+JF  - Sozial-und Praventivmedizin
+VL  - 48
+IS  - 2
+SP  - 80
+EP  - 87
+CY  - Osped San Giovanni Battista, Clin Epidemiol Unit, I-10126 Turin, Italy
+DO  - 10.1007/s00038-003-1029-7
+UR  - ISI:000183514600003
+N1  - Times Cited: 3 Article English Vineis, P Osped San Giovanni Battista, Clin Epidemiol Unit, Via Santena 7, I-10126 Turin, Italy Cited References Count: 15 689VX BIRKHAUSER VERLAG AG VIADUKSTRASSE 40-44, PO BOX 133, CH-4010 BASEL, SWITZERLAND BASEL
+N2  - Epidemiology represents an interesting and unique example of cross-fertilization between social and natural sciences. Epidemiology has evolved from a monocausal to a multicausal concept of the "web of causation", thus mimicking a similar and much earlier shift in the social sciences. However, in comparison with the social sciences epidemiology is both more sensitive to underlying biological models (which condition the interpretation of population findings), and more prone to a simplification of the causal pathways. Paradoxically, epidemiology has developed more sophisticated theoretical models for bias and confounding than the social sciences did, but for the practical purpose of identifying single preventable risk factors. Epidemiology makes use more often of study designs that simulate experimentation, than of surveys in the general population
+ER  - 
+TY  - JOUR
+T1  - Causality in medicine: the case of tumours and viruses.
+A1  - Vonka, V
+Y1  - 2000/12//
+KW  - Biological
+KW  - Humans
+KW  - Microbiology
+KW  - Microbiology: trends
+KW  - Models
+KW  - Neoplasms
+KW  - Neoplasms: diagnosis
+KW  - Neoplasms: etiology
+KW  - Neoplasms: virology
+KW  - Research Design
+KW  - Research Design: trends
+JF  - Philosophical transactions of the Royal Society of London. Series B, Biological sciences
+VL  - 355
+IS  - 1404
+SP  - 1831
+EP  - 41
+UR  - http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1692903&tool=pmcentrez&rendertype=abstract
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Vonka - 2000 - Causality in medicine the case of tumours and viruses(3).pdf
+N2  - Clarification of the aetiology of chronic human diseases such as atherosclerosis or cancer is one of the dominant topics in contemporary medical research. It is believed that identification of the causal factors will enable more efficient prevention and diagnosis of these diseases and, in some instances, also permit more effective therapy. The task is difficult because of the multistep and multifactorial origin of these diseases. A special case in contemporary aetiological studies is definition of the role of viruses in the pathogenesis of human cancer. Virus-associated cancer develops only in a small minority of infected subjects, which implies that, if the virus does play a role in the pathogenesis of the malignancy, other factors must also be involved. In this paper the author attempts to review the present methodological approaches to aetiological studies of chronic diseases, discusses the role of criteria for identifying causal relationships and proposes guidelines that might help to determine the role of viruses in human cancer.
+ER  - 
+TY  - GEN
+T1  - Causal diagrams and the identification of causal effects, graphical models and causality.
+A1  - VS, Chalasani
+Y1  - 2006///
+IS  - June
+SP  - 1
+EP  - 23
+CY  - Zurich
+UR  - http://clopinet.com/isabelle/Projects/ETH/CausalityJune06.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/VS - 2006 - Causal diagrams and the identification of causal effects, graphical models and causality(2).pdf
+ER  - 
+TY  - JOUR
+T1  - Causal criteria and the problem of complex causation.
+A1  - Ward, Andrew
+Y1  - 2009/08//
+JF  - Medicine, health care, and philosophy
+VL  - 12
+IS  - 3
+SP  - 333
+EP  - 343
+UR  - http://www.springerlink.com/content/rp1552833723pt42
+N2  - Nancy Cartwright begins her recent book, Hunting Causes and Using Them, by noting that while a few years ago real causal claims were in dispute, nowadays "causality is back, and with a vengeance." In the case of the social sciences, Keith Morrison writes that "Social science asks 'why?'. Detecting causality or its corollary-prediction-is the jewel in the crown of social science research." With respect to the health sciences, Judea Pearl writes that the "research questions that motivate most studies in the health sciences are causal in nature." However, not all data used by people interested in making causal claims come from experiments that use random assignment to control and treatment groups. Indeed, much research in the social and health science depends on non-experimental, observational data. Thus, one of the most important problems in the social and health sciences concerns making warranted causal claims using non-experimental, observational data; viz., "Can observational data be used to make etiological inferences leading to warranted causal claims?" This paper examines one method of warranting causal claims that is especially widespread in epidemiology and the health sciences generally-the use of causal criteria. It is argued that cases of complex causation generally, and redundant causation-both causal overdetermination and causal preemption-specifically, undermine the use of such criteria to warrant causal claims.
+ER  - 
+TY  - JOUR
+T1  - Causal inference without counterfactuals - Comment
+A1  - Wasserman, L
+Y1  - 2000/06//
+KW  - BOUNDS
+KW  - CAU
+KW  - causal inference
+KW  - counterfactual
+KW  - INFERENCE
+KW  - l
+KW  - Statistical
+KW  - Time
+KW  - TIMES
+JF  - Journal of the American Statistical Association
+VL  - 95
+IS  - 450
+SP  - 442
+EP  - 443
+CY  - Carnegie Mellon Univ, Dept Stat, Pittsburgh, PA 15213 USA
+UR  - ISI:000087716200013
+UR  - http://www.jstor.org/stable/2669384
+N1  - Times Cited: 3 Editorial Material English Wasserman, L Carnegie Mellon Univ, Dept Stat, Pittsburgh, PA 15213 USA Cited References Count: 3 326CY AMER STATISTICAL ASSOC 1429 DUKE ST, ALEXANDRIA, VA 22314 USA ALEXANDRIA
+ER  - 
+TY  - JOUR
+T1  - The estimation of causal effects from observational data
+A1  - Winship, C
+A1  - Morgan, S L
+Y1  - 1999///
+KW  - Article
+KW  - CAU
+KW  - causal analysis
+KW  - causal inference
+KW  - Censuses
+KW  - counterfactual
+KW  - design
+KW  - DESIGNS
+KW  - EARNINGS
+KW  - ECONOMETRIC EVALUATION ESTIMATOR
+KW  - feature
+KW  - FRAMEWORK
+KW  - IDENTIFICATION
+KW  - INFORMATION
+KW  - INSTRUMENTAL VARIABLES
+KW  - methods
+KW  - modeling
+KW  - Models
+KW  - PROPENSITY SCORE
+KW  - RANDOMIZATION
+KW  - Records
+KW  - Review
+KW  - SAMPLE SELECTION BIAS
+KW  - Selection Bias
+KW  - SIZE
+KW  - STATISTICAL-INFERENCE
+KW  - Surveys
+KW  - Time
+KW  - TIMES
+KW  - TRAINING-PROGRAMS
+KW  - treatment effect
+KW  - VARIABLES
+JF  - Annual Review of Sociology
+VL  - 25
+SP  - 659
+EP  - 706
+CY  - Harvard Univ, Dept Sociol, Cambridge, MA 02138 USA
+UR  - ISI:000082825900026
+UR  - http://www.wjh.harvard.edu/soc/faculty/winship/winship_causal_observational_99.pdf
+N1  - Times Cited: 126 Article English Winship, C Harvard Univ, Dept Sociol, William James Hall,33 Kirkland St, Cambridge, MA 02138 USA Cited References Count: 92 240KV ANNUAL REVIEWS INC 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA PALO ALTO
+N2  - When experimental designs are infeasible, researchers must resort to the use of observational data from surveys, censuses, and administrative records. Because assignment to the independent variables of observational data is usually nonrandom, the challenge of estimating causal effects with observational data can be formidable. In this chapter, we review the large literature produced primarily by statisticians and econometricians in the past two decades on the estimation of causal effects from observational data. We first review the now widely accepted counterfactual framework for the modeling of causal effects. After examining estimators, both old and new, that can be used to estimate causal effects from cross-sectional data, we present estimators that exploit the additional information furnished by longitudinal data. Because of the size and technical nature of the literature, we cannot offer a fully detailed and comprehensive presentation. Instead, we present only the main features of methods that are accessible and potentially of use to quantitatively oriented sociologists
+ER  - 
+TY  - JOUR
+T1  - Causal Reasoning with Ancestral Graphs
+A1  - Zhang, Jiji
+Y1  - 2008///
+KW  - ancestral graphs
+KW  - causal bayesian network
+KW  - do-calculus
+KW  - intervention
+JF  - Journal of Machine Learning Research
+VL  - 9
+SP  - 1437
+EP  - 1474
+UR  - http://jmlr.csail.mit.edu/papers/volume9/zhang08a/zhang08a.pdf
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang - 2008 - Causal Reasoning with Ancestral Graphs(3).pdf
+ER  - 
+TY  - JOUR
+T1  - Error probabilities for inference of causal directions
+A1  - Zhang, Jiji
+Y1  - 2008/02//
+KW  - 1 causal discovery from
+KW  - a
+KW  - bayesian network
+KW  - causal inference
+KW  - consider the following inductive
+KW  - consistency
+KW  - error probability
+KW  - Humanities
+KW  - observational data
+KW  - predict what would happen
+KW  - problem
+KW  - Social Sciences and Law
+KW  - to a unit or
+PB  - Springer Netherlands
+JF  - Synthese
+VL  - 163
+IS  - 3
+SP  - 409
+EP  - 418
+UR  - http://www.springerlink.com/index/10.1007/s11229-007-9295-1
+UR  - http://www.springerlink.com/content/rpw60051283mn152/
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang - 2008 - Error probabilities for inference of causal directions(3).pdf
+N2  - A main message from the causal modelling literature in the last several decades is that under some plausible assumptions, there can be statistically consistent procedures for inferring (features of) the causal structure of a set of random variables from observational data. But whether we can control the error probabilities with a finite sample size depends on the kind of consistency the procedures can achieve. It has been shown that in general, under the standard causal Markov and Faithfulness assumptions, the procedures can only be pointwise but not uniformly consistent without substantial background knowledge. This implies the impossibility of choosing a finite sample size to control the worst case error probabilities. In this paper, I consider the simpler task of inferring causal directions when the skeleton of the causal structure is known, and establish a similarly negative result concerning the possibility of controlling error probabilities. Although the result is negative in form, it has an interesting positive implication for causal discovery methods.
+ER  - 
+TY  - JOUR
+T1  - Structural equation and log-linear modeling: a comparison of methods in the analysis of a study on caregivers' health
+A1  - Zhu, Bin
+A1  - Walter, Stephen
+A1  - Rosenbaum, Peter
+A1  - Russell, Dianne
+A1  - Raina, Parminder
+Y1  - 2006///
+KW  - analysis
+KW  - behaviour
+KW  - Canada
+KW  - CAU
+KW  - Child
+KW  - DETERMINANTS
+KW  - Family
+KW  - Health
+KW  - Interviews
+KW  - methods
+KW  - MODEL
+KW  - modeling
+KW  - Models
+KW  - Ontario
+KW  - PAPER
+KW  - population-based
+KW  - QUESTIONNAIRE
+KW  - Questionnaires
+KW  - SAMPLE
+JF  - BMC Medical Research Methodology
+VL  - 6
+IS  - 1
+SP  - 49
+EP  - 49
+UR  - http://www.biomedcentral.com/1471-2288/6/49
+N2  - BACKGROUND:In this paper we compare the results in an analysis of determinants of caregivers' health derived from two approaches, a structural equation model and a log-linear model, using the same data set.METHODS:The data were collected from a cross-sectional population-based sample of 468 families in Ontario, Canada who had a child with cerebral palsy (CP). The self-completed questionnaires and the home-based interviews used in this study included scales reflecting socio-economic status, child and caregiver characteristics, and the physical and psychological well-being of the caregivers. Both analytic models were used to evaluate the relationships between child behaviour, caregiving demands, coping factors, and the well-being of primary caregivers of children with CP.RESULTS:The results were compared, together with an assessment of the positive and negative aspects of each approach, including their practical and conceptual implications.CONCLUSION:No important differences were found in the substantive conclusions of the two analyses. The broad confirmation of the Structural Equation Modeling (SEM) results by the Log-linear Modeling (LLM) provided some reassurance that the SEM had been adequately specified, and that it broadly fitted the data
+ER  - 
+TY  - GEN
+T1  - What's new in causal inference: From propensity scores and mediation to external validity and selection bias.
+A1  - Pearl, Judea
+Y1  - 2011///
+UR  - http://www.cs.ucla.edu/~judea
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pearl - 2011 - What's new in causal inference From propensity scores and mediation to external validity and selection bias(2).pps
+L1  - file:///C:/Users/ashleyj/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pearl - 2011 - What's new in causal inference From propensity scores and mediation to external validity and selection bias(2).pps
+N1  - From Duplicate 1 ( What's new in causal inference: From propensity scores and mediation to external validity and selection bias. - Pearl, Judea )
+
+
+
+
+ER  - 

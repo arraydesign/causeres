@@ -1,0 +1,47 @@
+causality is inferred, not observed
+ - we observe instances not a concept
+
+Causal reasoning through statistical analysis
+
+
+Types of Causal Reasoning
+
+partial or contributory cause
+example: driver inattention and a car crash on a freeway
+example: coral reefs are declining due to global warming, water pollution, and human contact
+
+necessary cause: a condition that must be present in order for the effect to occur
+example: a college degree is a prerequisite for certain jobs
+example: to be eligible for social security benefits one must be a certain age.
+
+sufficient cause: a condition capable of bringing about the effect in and of itself
+example: a blood alcohol level > .08 is sufficient for a DUI conviction
+example: having unprotected sex one time is sufficient for contracting HIV
+
+necessary versus sufficient: the distinction
+A necessary condition for the occurrence of an effect is a state of affairs without which the effect cannot occur, while a sufficient condition is a state of affairs that guarantees the effect will happen.
+
+sole cause (both necessary and sufficient)
+extremely rare in public, social controversies
+beware of arguers who use “scapegoating” by pinning all of society’s problems on a single cause
+example: recent lawsuits alleging McDonald’s was the sole cause of a person’s obesity
+example: global warming isn’t the sole cause of the decline of coral reefs
+example: As a condition of the Versailles treaty, Germany was required to accept sole responsibility for causing World War I. 
+
+effect-to-cause reasoning (a form of “sign” reasoning)
+looking at effects or symptoms and inferring back to their cause
+example: You have a fever, so you may have an infection.
+example: All the flags are flying at half mast, so it must be due to a national tragedy.
+example: Jake slammed the door when he came in so he’s probably in a bad mood.
+
+reciprocal causation: two things are both causes and effects of each other
+example: stuttering and shyness
+example: the United States’ policy toward Mexico and Mexico’s policy toward the U.S.
+example: couples’ conflicts “I read the paper because you never stop talking.” “I talk because you won’t stop reading the paper.”
+causal “chain” or multi-step causation
+Will Viagra help save endangered species? (Associated Press, December 26, 2002)
+Does media reporting about famous people who commit suicide produce “imitation” suicides? (New England Journal of Medicine, September 11, 1986)
+1% increase in unemployment “causes” 10,000 fatalities (Annual Review of Public Health, 1996, 17:449-65. )
+
+
+ 
