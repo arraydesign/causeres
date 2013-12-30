@@ -1,0 +1,13 @@
+---
+title: Example Published Article
+author: Danyl Sobolev
+abstract: This is an example of a published article. It uses the TEXTILE markup language.
+category: General
+tags: example textile
+published: true
+date: 2013-12-30 16:00:00
+---
+
+TEXTILE is a lightweight markup language originally developed by Dean Allen and billed as a “humane web text generator”. Textile converts its marked-up text input to valid, well-formed XHTML and also inserts character entity references for apostrophes, opening and closing single and double quotation marks, ellipses and em dashes.
+
+Learn more about TEXTILE via Wikipedia (http://goo.gl/B9zz) or via RedCloth (http://redcloth.org/textile)
