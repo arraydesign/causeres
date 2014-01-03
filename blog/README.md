@@ -10,16 +10,18 @@
 	- This must be the first thing in the file and must take the form of a valid YAML set between triple-dashed lines;
 	- Basic example:
 
-    ---
-    title: Post Title
-    author: Firstname Lastname
-    categories:
-    - Category Name
-    - Category Name
-    tags: tag1 tag2 tag3 multi-word-tag
-    published: YYYY-MM-DD HH:mm:ss
-    updated: YYYY-MM-DD HH:mm:ss
-    ---
+```
+---
+title: Post Title
+author: Firstname Lastname
+categories:
+- Category Name
+- Category Name
+tags: tag1 tag2 tag3 multi-word-tag
+published: YYYY-MM-DD HH:mm:ss
+updated: YYYY-MM-DD HH:mm:ss
+---
+```
 
 ## Published vs Draft Posts
 * To separate published & draft posts a specific naming convention will be used for the filenames:
