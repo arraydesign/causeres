@@ -5,7 +5,7 @@
 * Will be released monthly.
 
 ## Structure & Formatting
-* Please use either MARKDOWN or plain text for writing the articles;
+* Please use MARKDOWN for writing articles;
 * The meta data for each post should be set using the YAML syntax:
 	- This must be the first thing in the file and must take the form of a valid YAML set between triple-dashed lines;
 	- Basic example:
