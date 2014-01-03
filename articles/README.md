@@ -10,17 +10,19 @@
 	- This must be the first thing in the file and must take the form of a valid YAML set between triple-dashed lines;
 	- Basic example:
 
-    ---
-    title: Article Title
-    author: Firstname Lastname
-    abstract: Lorem ipsum dolor sit amet, consectetur...	
-    categories:
-    - Category Name
-    - Category Name
-    tags: tag1 tag2 tag3 multi-word-tag
-    published: YYYY-MM-DD HH:mm:ss
-    updated: YYYY-MM-DD HH:mm:ss
-    ---
+```
+---
+title: Article Title
+author: Firstname Lastname
+abstract: Lorem ipsum dolor sit amet, consectetur...
+categories:
+- Category Name
+- Category Name
+tags: tag1 tag2 tag3 multi-word-tag
+published: YYYY-MM-DD HH:mm:ss
+updated: YYYY-MM-DD HH:mm:ss
+---
+```
 
 ## Published vs Draft Articles
 * To separate published & draft articles a specific naming convention will be used for the filenames:
