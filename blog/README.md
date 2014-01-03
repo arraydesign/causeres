@@ -5,7 +5,7 @@
 * Posts should be published once or twice a week / 4 – 5 times a month / 50 – 60 times a year.
 
 ## Structure & Formatting
-* Please use either MARKDOWN or plain text for writing the posts;
+* Please use MARKDOWN for writing posts;
 * The meta data for each post should be set using the YAML syntax:
 	- This must be the first thing in the file and must take the form of a valid YAML set between triple-dashed lines;
 	- Basic example:
