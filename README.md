@@ -1,9 +1,9 @@
-# CAUSERES
+﻿# CAUSERES
 
 * Online publishing platform for Causal Reasoning in Health Services Research;
 * Regular updates of references, links, glossary definitions & blog entries;
 * Monthly release of long form articles (750 – 1000 words)
-* Monetization model has 2 options…
+* Monetization model has 2 options: ad-based and subscription-based
 
 ## 1. Ad-based (default)
 * No subscription or sign-up necessary to view the website or subscribe to RSS;
@@ -13,7 +13,7 @@
 	- Access to long form articles via the website & RSS (excerpt only, click through to read full article on website);
 * Ads are present throughout the website.
 
-## 2. Subscription based
+## 2. Subscription-based
 * Sign-up and login is required;
 * Monthly or yearly subscription;
 * Provides the following:
