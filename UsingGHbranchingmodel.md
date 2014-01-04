@@ -1,4 +1,4 @@
-Purpose of explicit numbering of versions
+﻿Purpose of explicit numbering of versions
 =========================================
 
 Usually, I number historical versions of a document for easy future reference to
@@ -16,7 +16,7 @@ Using Git-branching model
 =========================
 
 Using "release" as a metaphor for a document's current version, I can say that
-release branches support preparation of a new production release: editing for
+release branches support preparation of a new article release: approving new features, editing for
 style, last-minute dotting of i’s and crossing t’s, and preparing meta-data for
 a release (version number, build dates, etc.).
 
