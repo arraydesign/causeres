@@ -7,5 +7,5 @@ tags: example markdown
 
 MARKDOWN is intended to be as easy-to-read and easy-to-write as is feasible.
 
-Learn more about MARKDOWN via Wikipedia (http://en.wikipedia.org/wiki/Markdown) or via Daring Fireball (http://daringfireball.net/projects/markdown/)
+Learn more about MARKDOWN via Daring Fireball (http://goo.gl/1CRG)
 
