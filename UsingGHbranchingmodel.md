@@ -25,7 +25,7 @@ new supportive material, revise for phrasing, and editing. These could be used
 for the next release, and for future releases. The target release for these
 features may be unknown at that point, and will be either used or discarded. The
 importance of having feature branches though is having people involved in
-parallel activities. (I wrote both books this way, where upto 5 people were
+parallel activities. (I wrote both books this way, where up to 5 people were
 working in parallel during 2-3 years).
 
 Naming convention
