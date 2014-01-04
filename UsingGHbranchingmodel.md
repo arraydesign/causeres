@@ -12,8 +12,8 @@ future versions, but may need to be preserved for re-use: new section, new idea,
 new supportive materials (figure, table, reference), new phrasing, new editorial
 changes.  Usually, different people work on it separately.
 
-Using Git-Flow model
-====================
+Using Git-branching model
+=========================
 
 Using "release" as a metaphor for a document's current version, I can say that
 release branches support preparation of a new production release: editing for
