@@ -1,4 +1,4 @@
-﻿# CAUSERES
+# CAUSERES
 
 * Online publishing platform for Causal Reasoning in Health Services Research;
 * Regular updates of references, links, glossary definitions & blog entries;
