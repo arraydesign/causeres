@@ -17,7 +17,7 @@ those between structures and processes and those between processes and outcomes.
 Operations research conducted in the second half of the 20th century was
 instrumental in revealing the links between structures and processes in various
 social and industrial systems. The paradigm and analytic approaches of the field
-gradually came to be included in *Methods *sections of the health services
+gradually came to be included in *Methods* sections of the health services
 research literature concerned with improving the quality of care. At the same
 time came the realization that processes of medical care differ from those of
 manufacturing; variability in patients and reliance on expert judgment were
@@ -54,7 +54,7 @@ procedural volume, or the process, such as time from hospital arrival to
 angioplasty.
 
 To illustrate this idea, suppose variable $Z$ characterizes the process of
-care under different policies, so that $Z_0$ and $Z_1$ represent
+care under different policies, so that $Z_0$  and  $Z_1$ represent
 configurations set by policy $0$ and $1$. The effect of replacing policy
 $0$ with policy $1$ could be then evaluated by comparing the outcomes of
 care delivery corresponding to values of $Z$ set by each policy. Within the
