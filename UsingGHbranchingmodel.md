@@ -7,15 +7,10 @@ reference to its content.
 
 There are five important aspects of a current document that may change
 in the future versions, but may need to be preserved for re-use:
-
 -   new section,
-
 -   new idea,
-
 -   new supportive materials (figure, table, reference, quote),
-
 -   new phrasing,
-
 -   new editorial changes.
 
 Usually, different people work on these aspects separately.
