@@ -17,7 +17,7 @@ Usually, different people work on these aspects separately.
 
 # Using Git-branching model
 
-Using "release" as a metaphor for a current version of an article, I can
+Using *release* as a metaphor for a current version of an article, I can
 say that release branches support preparation of a new article release:
 approving new features, editing for style, proof-reading, last-minute
 dotting of i’s and crossing t’s, and preparing meta-data for a release
