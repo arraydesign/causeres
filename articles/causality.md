@@ -4,7 +4,7 @@ Causal reasoning could be narrowed to deducing the causal effects from a
 set of conditional probabilities that describe joint variation of random
 variables.
 
-### Causal reasoning in experiments
+## Causal reasoning in experiments
 
 In experiments, the problem of causal reasoning is to conclude whether
 controlled intervention (e.g., deliberate variation in treatment
@@ -20,7 +20,7 @@ produces in the summary measure of the outcome represents the effect of
 the intervention. The size of the effect is usually expressed as the
 relative or absolute value of the change.
 
-### Causal reasoning in observational studies
+## Causal reasoning in observational studies
 
 When ethical, economic, or other reasons, prevent experimental research,
 causal reasoning relies on the premise that for each observed
@@ -38,7 +38,7 @@ post-intervention distribution from the pre-intervention distribution,
 which further permits us to estimate the causal effect of \$X\$ on \$Y\$
 from nonexperimental data.
 
-### Interventional probabilities
+## Interventional probabilities
 
 Interventional probabilities represent a truncated form of the
 factorization, in which the conditional probability for intervened
