@@ -2,6 +2,8 @@
 
 -   Online reference platform for Causal Reasoning in Health Services Research
 
+-   "organized and available"
+
 -   Regular updates of references, links, glossary definitions, and blog entries
 
 -   Monthly release of short articles (750 – 1000 words) on topics in Causality
