@@ -1,4 +1,4 @@
-### Causal perspective in Health Services Research
+# Causal perspective in Health Services Research
 
 Causal reasoning in science relies on the premise that for each observed
 phenomenon, there exists an underlying mechanism that links cause and effect. In
@@ -53,11 +53,11 @@ be further viewed as modifying some parameters of the structure, such as
 procedural volume, or the process, such as time from hospital arrival to
 angioplasty.
 
-To illustrate this idea, suppose variable \$Z\$ characterizes the process of
-care under different policies, so that \$Z_0\$ and \$Z_1\$ represent
-configurations set by policy \$0\$ and \$1\$. The effect of replacing policy
-\$0\$ with policy \$1\$ could be then evaluated by comparing the outcomes of
-care delivery corresponding to values of \$Z\$ set by each policy. Within the
+To illustrate this idea, suppose variable $Z$ characterizes the process of
+care under different policies, so that $Z_0$ and $Z_1$ represent
+configurations set by policy $0$ and $1$. The effect of replacing policy
+$0$ with policy $1$ could be then evaluated by comparing the outcomes of
+care delivery corresponding to values of $Z$ set by each policy. Within the
 Donabedian model, health care evaluation therefore constitutes the effort to
 answer the following question, *What would be the change in outcome if variable
 $Z$ is forced to change from $Z_0$ to $Z_1$?*
