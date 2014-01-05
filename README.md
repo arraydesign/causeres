@@ -1,47 +1,33 @@
-# CAUSERES
+﻿# CAUSERES
 
--   Online reference platform for Causal Reasoning in Health Services
-    Research;
+-   Online reference platform for Causal Reasoning in Health Services Research
 
--   Regular updates of references, links, glossary definitions & blog
-    entries;
+-   Regular updates of references, links, glossary definitions, and blog entries
 
--   Monthly release of short articles (750 – 1000 words) on topics in
-    Causality
+-   Monthly release of short articles (750 – 1000 words) on topics in Causality
 
--   Monetization model has 2 options: ad-based (default) and
-    subscription-based
+-   Monetization: ad-based (default) and monthly or yearly subscription
 
 ## 1. Ad-based
 
--   Available to everyone to view the website or subscribe to RSS;
+-   Provides access to references, links, glossary definitions, articles, blog entries, and to RSS
 
--   Provides access to references, links, glossary definitions,
-    articles, and blog entries;
-
--   Ads are present throughout the website.
+-   Ads throughout the website
 
 ## 2. Subscription-based
 
--   Monthly or yearly subscription;
-
 -   Sign-up and login is required;
 
--   Provides access to a downloadable RIS file that contains the monthly
-    update for references;
+-   Provides access to a repository of references and to downloadable RIS files that contain the monthly updates for references
 
--   Provides access to a repository of references and glossary
-    definitions in machine readable XML format;
+-   Provides access to glossary definitions in machine readable XML format
 
--   Provides access to articles in ePub format;
+-   Provides access to articles in ePub format
 
--   Provides access to audio podcast of the articles;
+-   Provides access to audio podcast of the articles
 
--   A monthly email that provides links to all of the above (podcast,
-    RSS, ePub, downloadable RIS file, link to the GIT repository) PLUS
-    all of the updates of references, links, glossary definitions & blog
-    entries for that month;
+-   Provides monthly emails with URL for new podcasts, RSS, ePub and RIS files, links, glossary definitions, and blog entries
 
--   No ads on the website (when logged in).
+-   No ads on the website (when logged in)
 
 
