@@ -1,14 +1,11 @@
 # Policy analysis
 
 We adopt the view of economist [James Heckman][1] that policy analysis
-seeks to understand effects of policy through three types of
-queries.[\^2]
+seeks to understand effects of policy through three types of queries.[^2]
 
-[1]: \<http://heckman.uchicago.edu/\>
+[1]: <http://heckman.uchicago.edu>
 
-[\^2]:
-
-### Types of policy analysis
+[^2]: Heckman JJ. The scientic model of causality. Sociological Methodology 2005, 35(1):1-97
 
 One type of query is concerned with the difference in outcome between
 groups of patients that happen to have been exposed to alternative
@@ -69,4 +66,4 @@ extensions of the statistical analysis:
 -   analysis of counterfactual outcomes computed from the structural
     equations.
 
-
+  
