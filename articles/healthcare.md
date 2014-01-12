@@ -1,13 +1,8 @@
----
-title: Healthcare
-author: Boris Sobolev
-abstract: 
-categories:
-tags:
-published: false
----
+HEALTH CARE
+===========
 
-# Causal perspective in Health Services Research
+Causal perspective in Health Services Research
+----------------------------------------------
 
 Causal reasoning in science relies on the premise that for each observed phenomenon, there exists an underlying mechanism that links cause and effect. In health services research, the description of such a mechanism involves specification of the structures, processes, and outcomes of medical care, as exemplied by the works of Avedis Donabedian (1919--2000). Donabedian held that the structures of care are the facilities, equipment, services, and human resources needed to provide care, as well as the qualications of the care providers. The processes of care are the clinical and managerial activities, steps, and procedures involved in the provision of treatment within the defined structures of care. Finally, the outcomes of care are the results of the activities through which medical care is provided. Therefore, within the Donabedian triad, causal mechanisms should explain at least two sets of dependencies: those between structures and processes and those between processes and outcomes.
 
@@ -17,4 +12,4 @@ During the same period, health services research created a solid foundation for 
 
 The structure-process-outcome model provides a convenient idealization in evaluations of complex interventions in health care. Usually, such interventions constitute changes in one or more signicant aspects of care delivery. Within the model, interventions could be thought of as replacements of one conguration of the structure and process of care with another. Replacing a conguration could be further viewed as modifying some parameters of the structure, such as procedural volume, or the process, such as time from hospital arrival to angioplasty.
 
-To illustrate this idea, suppose variable $Z$ characterizes the process of care, so that $Z_0$ and $Z_1$ represent configurations set by policy 0 and 1. The effect of replacing policy 0 with policy 1 could be then evaluated by comparing the outcomes of care corresponding to values of $Z$ set by each policy. Within the Donabedian model, health care evaluation therefore constitutes the effort to answer the following question, _What would be the change in outcome if variable $Z$ is forced to change from $Z_0$ to $Z_1$?_
+To illustrate this idea, suppose variable \$Z\$ characterizes the process of care, so that \$Z_0\$ and \$Z_1\$ represent configurations set by policy 0 and 1. The effect of replacing policy 0 with policy 1 could be then evaluated by comparing the outcomes of care corresponding to values of \$Z\$ set by each policy. Within the Donabedian model, health care evaluation therefore constitutes the effort to answer the following question, What would be the change in outcome if variable \$Z\$ is forced to change from \$Z_0\$ to \$Z_1\$?
