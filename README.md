@@ -7,15 +7,20 @@
 
 ## 1. Free (every visitor)
 * Ad supported;
-* Access to article excerpts via RSS with a link to the full article on the website;
-* Access to article excerpts via Kindle with a link to the full article on the website;
+* Access to all content (articles are excerpted, with a link to the full article on the website) via un-differentiated RSS feed;
+* Access to all content (articles are excerpted, with a link to the full article on the website) via Kindle;
+* Access to all content (articles are excerpted, with a link to the full article on the website) via iPhone, iPad & Android;
 * Ability to like articles and response blog posts.
 
 ## 2. Paid (visitors who’ve become members)
 * Ad free;
-* Access to full articles via RSS;
-* Access to full articles via Kindle (ePub);
-* Access to full articles via iPhone, iPad & Android;
+* Access to all content (full articles) via un-differentiated RSS feed;
+* Access to full articles via a dedicated RSS feed;
+* Access to references/links via a dedicated RSS feed;
+* Access to glossary definitions via a dedicated RSS feed;
+* Access to blog entries via a dedicated RSS feed;
+* Access to all content (full articles) via Kindle (ePub);
+* Access to all content (full articles) via iPhone, iPad & Android;
 * Access to full articles as audio podcast;
 * Access to a repository of references, links & glossary definitions in RIS and XML formats;
 * Ability to write response blog posts to articles;
