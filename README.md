@@ -9,8 +9,8 @@
 * Ad supported;
 * Access to all content (articles are excerpted, with a link to the full article on the website) via un-differentiated RSS feed;
 * Access to all content (articles are excerpted, with a link to the full article on the website) via Kindle;
-* Access to all content (articles are excerpted, with a link to the full article on the website) via iPhone, iPad & Android;
-* Ability to like articles and response blog posts.
+* Access to all content (articles are excerpted, with a link to the full article on the website) via iPhone, iPad & Android; and
+* Ability comment on articles via twitter, tumblr and other micro blogging platforms.
 
 ## 2. Paid (visitors who’ve become members)
 * Ad free;
@@ -24,7 +24,7 @@
 * Access to full articles as audio podcast;
 * Access to a repository of references, links & glossary definitions in RIS and XML formats;
 * Ability to write response blog posts to articles;
-* Ability to like articles and response blog posts;
+* Ability comment on articles via twitter, tumblr and other micro blogging platforms;
 * Delivery of a monthly summary email that provides links to all of the above;
 * Delivery of a physical copy of an annual journal containing all the articles published that year.
 
